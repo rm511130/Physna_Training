@@ -117,13 +117,31 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ## Workshop Task 2<a name="WorkShop_2"></a>
 
-1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
+1. In preparation for this Workshop Task, a folder labeled as [Turbo](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
+ 
+   a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab, then come back to this page to continue on to step (b).
    
-   a. please right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in a new browser tab. 
+   b. right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in yeat another new browser tab, then come back to this page to continue with step (c).   
+  
+   c. You should now have at least 3 open Tabs on your browser window: 
    
-   b. now right-click and open yet another tab for the [annotated main page diagram shown above](#Commented_Main_Page).
+       Tab 1 is this page with the instructions you are following, 
    
-   c. look at box #1, the search bar, and enter "xx" then press the "return/enter" key to search.
+       Tab 2 is for quick access to the annotated main-page of Physna's UI, and 
+   
+       Tab 3 is for Physna's UI where you will run queries and look at results.
+   
+   e. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
+   
+
+   
+   
+   
+   
+   
+   d. Please look at Tab 3 box #1, now look for box #1, the search bar on Tab 2. Please type "xx" in the search bar then press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38).
+   
+   d. 
    
    
 ### 3b. Uploading Files

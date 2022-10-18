@@ -26,7 +26,7 @@ You will need:
 2. [How do I access a Physna environment?](#how-do-i-access)
    1) [Workshop Task 1: Login](#WorkShop_1)
 3. [Navigating the Physna User Interface](#navigating-the-ui)
-   2) [Workshop Task 2: Main Page](#WorkShop_2)
+   1) [Workshop Task 2: Main Page](#WorkShop_2)
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)

@@ -11,6 +11,8 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find matching models within a certain threshold of similarity
 - find duplicate models
 
+Work through this guide in order. Throughout this guide you will find Workshop Tasks that have been crafted to demonstrate Physna's capabilities and help you get started. 
+
 _Note: depending on your Master Services Agreement and the features your company subscribed to, some of functionality described in this user guide may not be available to you_.
 
 ## Table of Contents
@@ -32,8 +34,8 @@ _Note: depending on your Master Services Agreement and the features your company
 - Physna was founded on the principle that computers should be taught to accurately “think” in 3D – sorting and analyzing geometric objects like written code. 
 - We are building a future where people have the tools they need to design and analyze the parts and products that shape our world, to create and drive innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and beyond.
 - Physna Enterprise is a cloud-based solution that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
-- However, Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
-- Physna does, however, expose its functionality as consumable APIs that can be used to integrate Physna's functionality into existing IT Applications to enhance your company's business processes.
+- Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
+- Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as consumable APIs that can be used to integrate Physna's functionality into existing Applications to enhance your company's business processes.
 
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
 - Your main point of contact, typically an Account Executive or a Customer Success Team Member will provide you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
@@ -45,6 +47,13 @@ _Note: depending on your Master Services Agreement and the features your company
 
 - When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide.
+
+## Workshop Task 1
+
+a. Ask your Physna point of contact for your username to be created.
+b. 
+
+
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
 ### 3a. Main Landing Page

@@ -124,10 +124,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    b. right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in yeat another new browser tab, then come back to this page to continue with step (c).   
   
    c. You should now have at least 3 open Tabs on your browser window: 
-   
-       - Tab 1 is this page with the instructions you are following, 
-       - Tab 2 is for quick access to the annotated main-page of Physna's UI, and 
-       - Tab 3 is for Physna's UI where you will run queries and look at results.
+   - _Tab 1_ is this page with the instructions you are following, 
+   - _Tab 2_ is for quick access to the annotated main-page of Physna's UI, and 
+   - _Tab 3_ is for Physna's UI where you will run queries and look at results.
    
    e. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
    

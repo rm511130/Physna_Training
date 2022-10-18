@@ -15,9 +15,10 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ## Workshop Pre-requisites:
 
-- You will need a [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
-- You will need to update this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). So please check that you do have read/write access to it.
-- You will need 1hr of total elapsed time to dedicate to the Workshop Steps.
+You will need:
+- a [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
+- to be able to update this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). So please check that you do have read/write access to it.
+- 1hr of total elapsed time to dedicate to the Workshop Steps.
 
 ## Table of Contents
 
@@ -54,7 +55,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ## Workshop Task 1<a name="WorkShop_1"></a>
 
-1. Provide a valid email address to your Physna point of contact and ask him/her to create your username (your email).
+1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and the [User Management](#user_management) sections of this document.
 3. Log into your Physna environment. If you encounter any issues, please ask for assistance.
@@ -73,9 +74,9 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)
 
-- Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:
+- Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:<a name="Commented_Main_Page"><a/>
 
-![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)<a name="Commented_Main_Page"><a/>
+![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
@@ -114,7 +115,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ## Workshop Task 2<a name="WorkShop_2"></a>
 
-1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment, and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
+1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
    a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and refer back to the annotated [main page diagram shown above](#Commented_Main_Page)  
    
    

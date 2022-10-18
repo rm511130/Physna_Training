@@ -13,12 +13,19 @@ This guide describes the features available to an End User of the Physna Enterpr
 
 Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities.
 
+## Workshop Pre-requisites:
+
+- You will need a [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
+- You will need to update this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). So please check that you do have read/write access to it.
+- You will need 1hr of total elapsed time to dedicate to the Workshop Steps.
+
 ## Table of Contents
 
 1. [What is Physna and what is it not?](#what-is-physna)
 2. [How do I access a Physna environment?](#how-do-i-access)
    1) [Workshop Task 1: Login](#WorkShop_1)
 3. [Navigating the Physna User Interface](#navigating-the-ui)
+   2) [Workshop Task 2: Main Page](#WorkShop_2)
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
@@ -55,6 +62,10 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
+   
+- This section covers the main page of Physna's UI and all of its features. 
+- Once familiarized with the features available, we will have a Workshop Task to reinforced what has been described.
+   
 ### 3a. Main Landing Page
 
 - The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models. Please note that depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
@@ -99,6 +110,13 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)
 
+
+## Workshop Task 2<a name="WorkShop_2"></a>
+
+1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment, and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
+   a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and.... 
+   
+   
 ### 3b. Uploading Files
 
 For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:

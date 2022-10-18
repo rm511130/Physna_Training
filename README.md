@@ -118,8 +118,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ## Workshop Task 2<a name="WorkShop_2"></a>
 
 1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
+   
    a. please right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in a new browser tab. 
+   
    b. now right-click and open yet another tab for the [annotated main page diagram shown above](#Commented_Main_Page).
+   
    c. look at box #1, the search bar, and enter "xx" then press the "return/enter" key to search.
    
    

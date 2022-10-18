@@ -11,7 +11,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find matching models within a certain threshold of similarity
 - find duplicate models
 
-Throughout this guide you will find numbered Workshop Tasks that have been crafted to demonstrate Physna's capabilities. 
+Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities.
 
 ## Table of Contents
 

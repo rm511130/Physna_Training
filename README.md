@@ -114,7 +114,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 ## Workshop Task 2<a name="WorkShop_2"></a>
 
 1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment, and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
-   a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and.... 
+   a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and....  
    
    
 ### 3b. Uploading Files

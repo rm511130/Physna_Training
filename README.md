@@ -41,13 +41,13 @@ Throughout this guide you will find numbered Workshop Tasks that have been craft
 ![Login-Page](./images/login_page_ext.jpg)
 
 - When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
-- If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide.
+- If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
 
 ## Workshop Task 1
 
-a. Ask your Physna point of contact for your username to be created.
-b. 
-
+a. Provide a valida email address to your Physna point of contact and ask your username (your email) to be created.
+b. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
+c. Log into your Physna environment.
 
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>

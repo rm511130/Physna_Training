@@ -2,7 +2,7 @@
 # Workshop & Training Guide v1.1
 
 ## Overview
-This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud-based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise GUI environment who needs to:
+This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud-based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise GUI environment who would like to:
 
 - upload models (CAD or SCAN files of parts or assemblies)
 - organize models in folders and projects
@@ -11,9 +11,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find matching models within a certain threshold of similarity
 - find duplicate models
 
-Work through this guide in order. Throughout this guide you will find Workshop Tasks that have been crafted to demonstrate Physna's capabilities and help you get started. 
-
-_Note: depending on your Master Services Agreement and the features your company subscribed to, some of functionality described in this user guide may not be available to you_.
+Throughout this guide you will find numbered Workshop Tasks that have been crafted to demonstrate Physna's capabilities. 
 
 ## Table of Contents
 
@@ -30,15 +28,12 @@ _Note: depending on your Master Services Agreement and the features your company
    4) [User Management](#user_management)
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
-- Physna is a company on a journey to empower human creativity by connecting the physical and digital worlds. 
-- Physna was founded on the principle that computers should be taught to accurately “think” in 3D – sorting and analyzing geometric objects like written code. 
-- We are building a future where people have the tools they need to design and analyze the parts and products that shape our world, to create and drive innovation in product design, 3D printing, augmented and virtual reality, gaming, healthcare, and beyond.
 - Physna Enterprise is a cloud-based solution that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
 - Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
 - Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as consumable APIs that can be used to integrate Physna's functionality into existing Applications to enhance your company's business processes.
 
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
-- Your main point of contact, typically an Account Executive or a Customer Success Team Member will provide you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will probably follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
+- Your Physna point of contact, typically an Account Executive or a Customer Success Team Member will provide you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
 - Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business Email Address or Single-Sign-On ID. If MFA (Multi-Factor Authentication) has been implemented, you will be asked to follow your company's standard MFA procedures.
 - Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
 - The Login Page is simple and comes with links in case you forget your username or password.

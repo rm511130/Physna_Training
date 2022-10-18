@@ -132,15 +132,21 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)
    
-   e. Please look for box #1 (the search bar) on Tab 2 (the annotated diagram), now look for box #1 on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+   e. Please look for box #1 (the search bar) on Tab 2 (the annotated diagram), now look for box #1 on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. 
+   
+   f. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 ![xx_query](./images/xx_query.gif)   
    
-   d. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model. 
+   g. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views of a model.
    
 ![xx58949_viewer_page](./images/xx58949_viewer_page.gif)
 
+   h. The animation shown above ends with a click on _**Find Matches**_, so let's click on _**Find Matches**_ to see what other models match model _**xx58949**_ geometrically.
+   
+![matches_xx58949](./images/matches_xx58949.gif)
 
+   i. Per the animation shown above, there are 4 types of matches that you can access. We will focus on the 1st two: match or part-to-part match, and part-match or part-in-part match. Observe the animation above carefully to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). The animation also shows the results of a part-in-part match: a turbocharger and an intake valve. Take the time to click around and get familiarized with the other features such as box #10 for the download of CSV formatted data and box #13 for a "shopping cart" view of the thumbnails.
    
 ### 3b. Uploading Files
 

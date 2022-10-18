@@ -58,7 +58,8 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and the [User Management](#user_management) sections of this document.
 3. Log into your Physna environment. If you encounter any issues, please ask for assistance.
-4. Congratulations: you have completed _Task 1_ of the Workshop.
+4. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 1.  
+5. Congratulations: you have completed _Task 1_ of the Workshop.
 
 
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
@@ -74,7 +75,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 - Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:
 
-![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
+![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)<a name="Commented_Main_Page"><a/>
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
@@ -114,7 +115,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 ## Workshop Task 2<a name="WorkShop_2"></a>
 
 1. In preparation for this Workshop Task, a [Turbo Folder](https://delta.physna.com/app/search?folders=38) was created on your environment, and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first:
-   a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and....  
+   a. please click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and refer back to the annotated [main page diagram shown above](#Commented_Main_Page)  
    
    
 ### 3b. Uploading Files

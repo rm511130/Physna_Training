@@ -121,7 +121,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
  
    a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab, then come back to this page to continue on to step (b).
    
-   b. right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in yeat another new browser tab, then come back to this page to continue with step (c).   
+   b. right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in yet another new browser tab, then come back to this page to continue with step (c).   
   
    c. You should now have at least 3 open Tabs on your browser window: 
    - _Tab 1_ is this page with the instructions you are following, 
@@ -136,8 +136,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ![xx_query](./images/xx_query.gif)   
    
-   d. 
+   d. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model. 
    
+![xx58949_viewer_page](./images/xx58949_viewer_page.gif)
+
+
    
 ### 3b. Uploading Files
 

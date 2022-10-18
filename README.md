@@ -128,15 +128,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    - _Tab 2_ is for quick access to the annotated main-page of Physna's UI, and 
    - _Tab 3_ is for Physna's UI where you will run queries and look at results.
    
-   e. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
+   d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
    
-
+![Tab1Tab2Tab3](./images/Tab1Tab2Tab3)
    
-   
-   
-   
-   
-   d. Please look at Tab 3 box #1, now look for box #1, the search bar on Tab 2. Please type "xx" in the search bar then press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38).
+   e. Please look at Tab 3 box #1, now look for box #1, the search bar on Tab 2. Please type "xx" in the search bar then press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38).
    
    d. 
    

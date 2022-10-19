@@ -51,7 +51,7 @@ You will need:
 - Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
 - The Login Page is simple and comes with links in case you forget your username or password.
 
-![Login-Page](./images/login_page_ext.jpg)
+<kbd>![Login-Page](./images/login_page_ext.jpg)</kbd>
 
 - When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
@@ -78,11 +78,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models. Please note that depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
 
-![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)
+<kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)</kbd>
 
 - Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:<a name="Commented_Main_Page"><a/>
 
-![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)
+<kbd>![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)</kbd>
 
 1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
@@ -95,13 +95,15 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
     (iii) Scan Match: finds models when the chosen model is a high-poly scan by comparing bounding box volume parameters
    
     (iv) Classification Match: finds models using their geometric classification or predicted geometric classification
+   
+   
 4. The radio buttons that switch the results between the 4 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
 5. The match tolerance between 0 and 100% that is used to filter the search result set.
 6. The model chosen as the subject for the searches. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find matches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
 8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden and pinned to the left or the right of the displayed.
 
-![ellipsis_v2](./images/ellipsis_v2.jpg)
+<kbd>![ellipsis_v2](./images/ellipsis_v2.jpg)</kbd>
 
 9. Comparison Cart showing any two models to be compared. The models listed in the compare section can be cleared out from the cart or each model can be individually removed from the cart using the "x" next to it. Comparisons will be explained in a subsequent section of this user guide.
 10. Download the contents of the page into using an Excel-friendly format.
@@ -116,7 +118,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
     
 13. The ability to toggle the display of results between the tighter table format shown above and the bigger thumbnails format shown below.
 
-![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)
+<kbd>![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)</kbd>
 
 
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>
@@ -134,19 +136,19 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
    
-![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)
+<kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
 2. Please look for box #1 (the search bar) on Tab 2 (the annotated diagram), now look for box #1 on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
-![xx_query](./images/xx_query.gif)   
+<kbd>![xx_query](./images/xx_query.gif)</kbd>
    
 3. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views of a model.
    
-![xx58949_viewer_page](./images/xx58949_viewer_page.gif)
+<kbd>![xx58949_viewer_page](./images/xx58949_viewer_page.gif)</kbd>
 
 4. The animation shown above ends with a click on _**Find Matches**_, so let's click on _**Find Matches**_ to see what other models match model _**xx58949**_ geometrically.
    
-![matches_xx58949](./images/matches_xx58949.gif)
+<kbd>![matches_xx58949](./images/matches_xx58949.gif)</kbd>
 
 5. Per the animation shown above, there are 4 types of matches that you can access. We will focus on the 1st two: match or part-to-part match, and part-match or part-in-part match. Observe the animation above carefully to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). The animation also shows the results of a part-in-part match: a turbocharger and an intake valve. Take the time to click around and get familiarized with the other features such as box #10 for the download of CSV formatted data and box #13 for a "shopping cart" view of the thumbnails.
    
@@ -160,11 +162,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - To list your folders, open the hamburger menu (the triple horizontal lines) on the upper left corner and select _**Folders**_.
 
-![folders-1](./images/folders-1.png)
+<kbd>![folders-1](./images/folders-1.png)</kbd>
 
 - This will display the list of folders.
 
-![folders-1](./images/folders-2.png)
+<kbd>![folders-1](./images/folders-2.png)</kbd>
 
 - To create a new folder, click on the "Actions" button on the upper right corner and select _**Create  New Folder**_ from the drop-down menu.
 
@@ -180,11 +182,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
 
-![upload-file-step-1-annotated](./images/upload-file-step-1-annotated.png) 
+<kbd>![upload-file-step-1-annotated](./images/upload-file-step-1-annotated.png)</kbd>
 
 - Pressing the upload button will open the upload page, as shown below:
 
-![upload-file-details-annotated](./images/upload-file-details-annotated.png)
+<kbd>![upload-file-details-annotated](./images/upload-file-details-annotated.png)</kbd>
 
 - Note the various components of the upload user interface:   
    
@@ -196,7 +198,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Once you confirm your file selection the file will be uploaded to Physna and indexing will be initiated. Progress bar in the right side of the page will be displayed.
 
-![upload-file-success](./images/upload-file-success.png)
+<kbd>![upload-file-success](./images/upload-file-success.png)</kbd>
 
 - At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page.
 
@@ -206,17 +208,17 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines (hamburger menu) and then click on _**Folders**_. Click on _**Actions**_ on the top-right hand corner of the screen, then on _**Create New Folder**_.  Follow the workflow to create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_. See animation below:
    
-![Create Folder](./images/create_folder.gif)
+   <kbd>![Create Folder](./images/create_folder.gif)</kbd>
    
 2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created in the previous step. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
 
-**_Important Details:_**
-- Extracting the files to a directory is a necessary step. Physna will not read the files stored within the zipped file.
-- Make sure to select **_your_** Physna folder as the destination.
-- Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
-- Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.
+   **_Important Details:_**
+     - Extracting the files to a directory is a necessary step. Physna will not read the files stored within the zipped file.
+     - Make sure to select **_your_** Physna folder as the destination.
+     - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
+     - Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.    
    
-![Upload Files](./images/Upload_Files.gif)
+   <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
 ## 4. Example Use Cases<a name="use-cases"><a/>
 

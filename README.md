@@ -73,7 +73,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 - This section covers the main page of Physna's UI and all of its features. 
 - Once familiarized with the features available, we will have a Workshop Task to reinforced what has been described.
 - Depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
-- Physna's UI is being actively updated to use React. Some of its features will still be based on an older design but the functionality has been tested and will not affect the Workshop Tasks. 
+- Physna's UI is being actively updated to use React. Some of its features will still be based on an older design, but the functionality has been tested and will not affect the Workshop Tasks. 
    
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
@@ -124,7 +124,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>
 
-1. In preparation for this Workshop Task, a folder labeled as [Turbo](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
+1. In preparation for this Workshop Task, a folder named [Turbo](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
  
    a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab, then come back to this page to continue on to step (b).
    
@@ -171,11 +171,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - To create a new folder, click on the "Actions" button on the upper right corner and select _**Create  New Folder**_ from the drop-down menu.
 
-<img src="./images/folders-3.png" style="width:200px;"/>
+   <kbd><img src="./images/folders-3.png" style="width:200px;"/></kbd>
 
 - Enter the name of the new folder and click the _**Create**_ button.
 
-<img src="./images/folders-4.png" style="width:400px;"/>
+   <kbd><img src="./images/folders-4.png" style="width:400px;"/></kbd>
 
 - To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
 

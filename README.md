@@ -208,7 +208,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ![Create Folder](./images/create_folder.gif)
    
-2. Physna is able to understand and ingest multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). The complete list and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). In this [Google Drive Location] you will find ...
+2. Physna is able to understand and ingest multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). The complete list and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). In this [Google Drive Location](https://drive.google.com/drive/folders/10XPHflPdBdPmuFKHL-qmeDRbjZHZRkb2?usp=sharing) you will find several file format versions of the same model. Please download them to your machine, unzip them to a directory of your choice, and upload them into the folder you just created. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
+   
+![Upload Files](./images/Upload_Files.gif)
    
 ## 4. Example Use Cases<a name="use-cases"><a/>
 

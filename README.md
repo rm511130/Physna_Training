@@ -77,7 +77,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
-- The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models. Please note that depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
+- The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models.
 
 <kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)</kbd>
 

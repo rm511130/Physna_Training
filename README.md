@@ -73,7 +73,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 - This section covers the main page of Physna's UI and all of its features. 
 - Once familiarized with the features available, we will have a Workshop Task to reinforced what has been described.
 - Depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
-- Physna's UI is being actively updated to use React. Some of its features will be still based on an older design but the functionality has been tested and will not affect the Workshop Tasks. 
+- Physna's UI is being actively updated to use React. Some of its features will still be based on an older design but the functionality has been tested and will not affect the Workshop Tasks. 
    
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 

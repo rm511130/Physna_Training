@@ -152,25 +152,27 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ### 3b. Uploading Files
 
-For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
+- For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
 
 ![upload-file-step-1-annotated](./images/upload-file-step-1-annotated.png) 
 
-Pressing this button will open the upload page:
+- Pressing the upload button will open the upload page, as shown below:
 
 ![upload-file-details-annotated](./images/upload-file-details-annotated.png)
 
+- Note the various components of the upload user interface:   
+   
 1. Dropdown that lists all available folders in the environment and allows the user to select the target folder for the upload. The default is "Default Container"
-2. Specify the units of measure (e.g., "inch", "mm")
-3. When checked, it will prevent the upload of duplicate files
+2. Specify the units of measure (e.g., "inch", "feet", "millimeter" and "meter")
+3. When checked, it will prevent the upload of duplicate files. That is, files with the same source directory and filename.
 4. Pressing the "Upload Files" button will display standard file selection dialog. Choose one or more files from your local storage to be uploaded
 5. List of recently uploaded files. Mostly for your information
 
-Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Once you confirm your file selection the file will be uploaded to Physna and indexing will be initiated. Progress bar in the right side of the page will be displayed.
+- Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Once you confirm your file selection the file will be uploaded to Physna and indexing will be initiated. Progress bar in the right side of the page will be displayed.
 
 ![upload-file-success](./images/upload-file-success.png)
 
-At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as shown previously.
+- At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as previously seen .
 
 ### 3c. Folders
 

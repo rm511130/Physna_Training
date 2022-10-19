@@ -83,28 +83,28 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 <kbd>![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)</kbd>
 
-1. The search bar is for case-insensitive, partial or complete names of models, filenames, or metadata elements associated with the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
+1. The search bar is for case-insensitive searches of partial or complete names of models, filenames, or metadata elements about the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
-3. The question mark icon opens a "Match Type" help screen that explains the 4 modalities of searches available to the end user directly from the main landing page.
+3. The question mark icon opens a _"Match Type"_ help screen that explains the 4 modalities of searches directly available to the end user from the main landing page.
     
-    (i) Match: finds models that are geometrically similar to a chosen model
+    (i) Match: finds models that are geometrically similar to a chosen model.
    
-    (ii) Part Match: finds models into which your chosen model fits
+    (ii) Part Match: finds models that contain your chosen model.
    
-    (iii) Scan Match: finds models when the chosen model is a high-poly scan by comparing bounding box volume parameters
+    (iii) Scan Match: compares models volumetrically and is useful when dealing with a high-poly, scanned model. 
    
     (iv) Classification Match: finds models using their geometric classification or predicted geometric classification
    
    
-4. The radio buttons that switch the results between the 4 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
-5. The match tolerance between 0 and 100% that is used to filter the search result set.
+4. The radio buttons are used to switch the results between the 4 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
+5. The match tolerance between 0 and 100% is used to filter the search result set.
 6. The model chosen as the subject for the searches. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find matches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
 8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden and pinned to the left or the right of the displayed.
 
 <kbd>![ellipsis_v2](./images/ellipsis_v2.jpg)</kbd>
 
-9. Comparison Cart showing any two models to be compared. The models listed in the compare section can be cleared out from the cart or each model can be individually removed from the cart using the "x" next to it. Comparisons will be explained in a subsequent section of this user guide.
+9. The Comparison Cart is used to compare two models. The models listed in the compare section can be cleared out from the cart or each model can be individually removed from the cart using the "x" next to it. Comparisons will be explained in a subsequent section of this user guide.
 10. Download the contents of the page into using an Excel-friendly format.
 11. Pagination control when the result sets can't be shown on a single page.
 12. The three icons, in order from left to right, represent functionality that will be explained in a subsequent section of this user guide.

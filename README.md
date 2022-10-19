@@ -204,9 +204,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 - In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
    
-1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines (hamburger menu) and then click on _**Folders**_. Click on _**Actions**_ on the top-right hand corner of the screen, then on _**Create New Folder**_.  Follow the workflow to create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_.
+1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines (hamburger menu) and then click on _**Folders**_. Click on _**Actions**_ on the top-right hand corner of the screen, then on _**Create New Folder**_.  Follow the workflow to create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_. See animation below:
    
-![Create Folder](./images/Create_Folder.gif)
+![Create Folder](./images/create_folder.gif)
    
 2. Physna is able to understand and ingest multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). The complete list and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). In this [Google Drive Location] you will find ...
    

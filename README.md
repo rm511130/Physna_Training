@@ -258,7 +258,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
     <kbd>![Single_STL_Find_Matches](./images/single_stl_find_matches.gif)</kbd>  
    
-   
+7. Use the search bar to search for _**PZ2   
 Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 
 With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system and practice. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.

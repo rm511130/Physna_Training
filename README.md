@@ -156,25 +156,25 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ### 3c. Folders<a name="Folders"></a>
 
-Folders in Phynsa are containers that help you organize you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
+- Folders in Phynsa are containers that help you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
 
-To list your folders, open the hamburger menu in the upper left corner and select "Folders".
+- To list your folders, open the hamburger menu (the triple horizontal lines) on the upper left corner and select _**Folders**_.
 
 ![folders-1](./images/folders-1.png)
 
-This will display the list of folders.
+- This will display the list of folders.
 
 ![folders-1](./images/folders-2.png)
 
-To create a new folder, click on the "Actions" button in the upper right corner and select "Create  New Folder" from the dropdown menu.
+- To create a new folder, click on the "Actions" button on the upper right corner and select _**Create  New Folder**_ from the drop-down menu.
 
 <img src="./images/folders-3.png" style="width:200px;"/>
 
-Enter the name of the new folder and click the "Create" button.
+- Enter the name of the new folder and click the _**Create**_ button.
 
 <img src="./images/folders-4.png" style="width:400px;"/>
 
-To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
+- To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
 
 ### 3d. Uploading Files<a name="Uploading_Files"></a>
 
@@ -202,11 +202,11 @@ To delete a folder, click on the trashcan icon next to the folder name in the fo
 
 ### 3e. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
    
-- In this section you are going to create your own folder, convert a USD file into multiple STL files, ingest all the files into Physna and validate the results.
+- In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
    
-1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines and then click on _**Folders**_. Follow the workflow to create a folder unique to you. For example, _**AB Folder**_ if your initials are _**AB**_.
+1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines (hamburger menu) and then click on _**Folders**_. Click on _**Actions**_ on the top-right hand corner of the screen, then on _**Create New Folder**_  and follow the workflow to create a folder unique to you. For example, _**AB Folder**_ if your initials are _**AB**_.
    
-2.
+2. Physna is able to understand and ingest multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). The complete list and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). In this [Google Drive Location] you will find ...   
    
 ## 4. Example Use Cases<a name="use-cases"><a/>
 

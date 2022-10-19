@@ -211,7 +211,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created on the previous step. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
 
 **_Important Details:_**
-- Extracting the files to a directory is a necessary step. Physna will not read the files stored within the single zipped file.
+- Extracting the files to a directory is a necessary step. Physna will not read the files stored within the zipped file.
 - Make sure to select **_your_** Physna folder as the destination.
 - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
    

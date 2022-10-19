@@ -211,15 +211,21 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![Create Folder](./images/create_folder.gif)</kbd>
    
-2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created in the previous step. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
+2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created in the previous step. In the animation below, we are loading the files into the _**AB1**_ folder.
 
    **_Important Details:_**
-     - Extracting the files to a directory is a necessary step. Physna will not read the files stored within the zipped file.
+     - Extracting the contents of the zipped file to a directory is a necessary step. Physna will not read the files stored within the zipped file.
      - Make sure to select **_your_** Physna folder as the destination.
      - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
      - Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.    
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
+   
+3. The previous step must have ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamurger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
+   
+4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
+   
+5. Congratulations: you have completed _Task 3_ of the Workshop.
    
 ## 4. Example Use Cases<a name="use-cases"><a/>
 

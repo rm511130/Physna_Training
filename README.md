@@ -61,7 +61,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.
-3. Log into your Physna environment. If you encounter any issues, please ask for assistance.
+3. Log into your Physna environment: https://nu.physna.com. If you encounter any issues, please ask for assistance.
 4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 1.  
 5. Congratulations: you have completed _Task 1_ of the Workshop.
 
@@ -72,6 +72,8 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 - This section covers the main page of Physna's UI and all of its features. 
 - Once familiarized with the features available, we will have a Workshop Task to reinforced what has been described.
+- Depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
+- Physna's UI is being actively updated to use React. Some of its features will be still based on an older design but the functionality has been tested and will not affect the Workshop Tasks. 
    
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
@@ -137,11 +139,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
-2. Please look for box #1 (the search bar) on Tab 2 (the annotated diagram), now look for box #1 on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+2. Please look for box #1 (the search bar) on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query.gif)</kbd>
    
-3. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views of a model.
+3. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    
 <kbd>![xx58949_viewer_page](./images/xx58949_viewer_page.gif)</kbd>
 
@@ -157,7 +159,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ### 3c. Folders<a name="Folders"></a>
 
-- Folders in Phynsa are containers that help you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
+- Folders in Phynsa are containers that help you organize your 3D models. You can search across folders, but storing models in distinct folders provides logical structure to how your data is to be organized.
 
 - To list your folders, open the hamburger menu (the triple horizontal lines) on the upper left corner and select _**Folders**_.
 

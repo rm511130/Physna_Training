@@ -15,10 +15,9 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ## Workshop Pre-requisites:
 
-You will need:
-- a [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
-- to be able to update this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). So please check that you do have read/write access to it.
-- 1hr of total elapsed time to dedicate to the Workshop Steps.
+- [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
+- Read/Write access to this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). Please check that you do have read/write access to it.
+- 1 hour of total elapsed time to dedicate to the Workshop Steps.
 
 ## Table of Contents
 

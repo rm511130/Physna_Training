@@ -28,7 +28,9 @@ You will need:
 3. [Navigating the Physna User Interface](#navigating-the-ui)  
    3a) [Main Landing Page](#Main_Landing_Page)  
    3b) [Workshop Task 2: Main Page](#WorkShop_2) 
-   3c) [Uploading Files](#Uploading_Files)
+   3c) [Folders](#Folders)  
+   3d) [Uploading Files](#Uploading_Files)
+   3e) [Workshop Task 3: Model Ingestion](#Workshop_3)
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
@@ -151,8 +153,30 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 6. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
   
 7. Congratulations: you have completed _Task 2_ of the Workshop.   
-   
-### 3c. Uploading Files<a name="Uploading_Files"></a>
+
+### 3c. Folders<a name="Folders"></a>
+
+Folders in Phynsa are containers that help you organize you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
+
+To list your folders, open the hamburger menu in the upper left corner and select "Folders".
+
+![folders-1](./images/folders-1.png)
+
+This will display the list of folders.
+
+![folders-1](./images/folders-2.png)
+
+To create a new folder, click on the "Actions" button in the upper right corner and select "Create  New Folder" from the dropdown menu.
+
+<img src="./images/folders-3.png" style="width:200px;"/>
+
+Enter the name of the new folder and click the "Create" button.
+
+<img src="./images/folders-4.png" style="width:400px;"/>
+
+To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
+
+### 3d. Uploading Files<a name="Uploading_Files"></a>
 
 - For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
 
@@ -175,32 +199,15 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ![upload-file-success](./images/upload-file-success.png)
 
 - At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page.
+
+### 3e. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
    
-
-
-### 3c. Folders
-
-Folders in Phynsa are containers that help you organize you organize your 3D models. You can still search across folders, but storing them in named folders provides logical structure.
-
-To list your folders, open the hamburger menu in the upper left corner and select "Folders".
-
-![folders-1](./images/folders-1.png)
-
-This will display the list of folders.
-
-![folders-1](./images/folders-2.png)
-
-To create a new folder, click on the "Actions" button in the upper right corner and select "Create  New Folder" from the dropdown menu.
-
-<img src="./images/folders-3.png" style="width:200px;"/>
-
-Enter the name of the new folder and click the "Create" button.
-
-<img src="./images/folders-4.png" style="width:400px;"/>
-
-To delete a folder, click on the trashcan icon next to the folder name in the folder list page.
-
-
+- In this section you are going to create your own folder, convert a USD file into multiple STL files, ingest all the files into Physna and validate the results.
+   
+1. Refer back to the [annotated main page diagram](#Commented_Main_Page) and take a look at the item marked #2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines and then click on _**Folders**_. Follow the workflow to create a folder unique to you. For example, _**AB Folder**_ if your initials are _**AB**_.
+   
+2.
+   
 ## 4. Example Use Cases<a name="use-cases"><a/>
 
 In the previous chapters we learned how to upload a file and how to navigate around the Physna's web site. In this chapter we will provide some examples of the types of practical operations one could perform.

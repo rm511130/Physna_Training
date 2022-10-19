@@ -79,7 +79,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 <kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)</kbd>
 
-- Diving deeper into the main landing page features. Using the annotated diagram shown below, follow the sequence of numbers and their descriptions:<a name="Commented_Main_Page"><a/>
+- Let's dive into the main landing page features using the annotated diagram shown below. Please follow the sequence of numbers and their descriptions:<a name="Commented_Main_Page"><a/>
 
 <kbd>![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)</kbd>
 

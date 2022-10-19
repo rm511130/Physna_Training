@@ -254,7 +254,10 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![Single_STL](./images/single_stl.gif)</kbd>
 
-6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page.  
+6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Observe that, even though the _**Single_STL_PZ2.STL**_ model is a monolithic STL file, Physna matches it to it's 9 siblings because they have very similar geometries.
+   
+    <kbd>![Single_STL_Find_Matches](./images/single_stl_find_matches.gif)</kbd>  
+   
    
 Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 

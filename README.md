@@ -230,7 +230,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ## 4. 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
-- In the previous chapters we learned how to create folders, upload a files, and navigate around the Physna's UI. In this chapter we will provide some examples of the types of practical operations one can perform.
+- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI. In this chapter, we will provide some examples of the types of practical operations one can perform using Physna.
 
 ### 4a. Workshop Task 4: Find Matches<a name="Workshop_4"><a/>     
    
@@ -240,16 +240,21 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![17vs16](./images/17vs16.gif)</kbd>
    
-2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question: why are there not 17 models? The answer to this question is provided at the end of this Workshop Task 4.
+2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question #1: you uploaded 17 files so why are there not 17 models? The answer to this question is provided at the end of this Workshop Task 4.
    
-3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with 6 _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully and try to repeat the same steps: 
+3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully and try to repeat the same steps. 
    
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
-4. Per the animation below, please click on _**Find Matches**_ corresponding to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. Question: why are there 9 matches? The answer to this question is provided at the end of this Workshop Task 4.
+4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Question #2: why are there 9 matches? The answer to this question is provided at the end of this Workshop Task 4.
 
    <kbd>![9_matches](./images/9_matches.gif)</kbd>
+
+5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? The answer to this question is provided at the end of this Workshop Task 4. 
    
+   <kbd>![Single_STL](./images/single_stl.gif)</kbd>
+
+6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page.  
    
 Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 

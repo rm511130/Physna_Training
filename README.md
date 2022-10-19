@@ -23,10 +23,12 @@ You will need:
 ## Table of Contents
 
 1. [What is Physna and what is it not?](#what-is-physna)
-2. [How do I access a Physna environment?](#how-do-i-access)
-   1) [Workshop Task 1: Login](#WorkShop_1)
-3. [Navigating the Physna User Interface](#navigating-the-ui)
-   1) [Workshop Task 2: Main Page](#WorkShop_2)
+2. [How do I access a Physna environment?](#how-do-i-access)  
+   2a) [Workshop Task 1: Login](#WorkShop_1)
+3. [Navigating the Physna User Interface](#navigating-the-ui)  
+   3a) [Main Landing Page](#Main_Landing_Page)  
+   3b) [Workshop Task 2: Main Page](#WorkShop_2) 
+   3c) [Uploading Files](#Uploading_Files)
 4. [Example use cases](#use-cases)
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
@@ -53,7 +55,7 @@ You will need:
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
 
 
-## Workshop Task 1<a name="WorkShop_1"></a>
+### 2a. Workshop Task 1<a name="WorkShop_1"></a>
 
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
@@ -70,7 +72,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 - This section covers the main page of Physna's UI and all of its features. 
 - Once familiarized with the features available, we will have a Workshop Task to reinforced what has been described.
    
-### 3a. Main Landing Page
+### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
 - The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models. Please note that depending on your user role and the set of features your company has subscribed to use, some of the menu items may not be active or available to you.
 
@@ -115,7 +117,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)
 
 
-## Workshop Task 2<a name="WorkShop_2"></a>
+### 3b. Workshop Task 2<a name="WorkShop_2"></a>
 
 1. In preparation for this Workshop Task, a folder labeled as [Turbo](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
  
@@ -150,7 +152,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
   
 7. Congratulations: you have completed _Task 2_ of the Workshop.   
    
-### 3b. Uploading Files
+### 3c. Uploading Files<a name="Uploading_Files"></a>
 
 - For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
 
@@ -172,7 +174,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ![upload-file-success](./images/upload-file-success.png)
 
-- At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page as previously seen .
+- At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page.
+   
+
 
 ### 3c. Folders
 

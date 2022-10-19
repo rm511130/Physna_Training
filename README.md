@@ -214,6 +214,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 - Extracting the files to a directory is a necessary step. Physna will not read the files stored within the zipped file.
 - Make sure to select **_your_** Physna folder as the destination.
 - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
+- Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.
    
 ![Upload Files](./images/Upload_Files.gif)
    

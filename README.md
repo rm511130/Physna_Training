@@ -248,7 +248,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Question #2: why are there 9 matches? The answer to this question is provided at the end of this Workshop Task 4.
 
-   <kbd>![9_matches](./images/9_matches.gif)</kbd>
+   <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
 
 5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? The answer to this question is provided at the end of this Workshop Task 4. 
    

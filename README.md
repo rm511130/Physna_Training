@@ -41,9 +41,9 @@ You will need:
    4) [User Management](#user_management)
 
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
-- Physna Enterprise is a cloud-based solution that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
+- Physna Enterprise is a cloud-based tool that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
 - Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
-- Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as consumable APIs that can be used to integrate Physna's functionality into existing Applications to enhance your company's business processes.
+- Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as [APIs](https://physna.github.io/public-api-guide/) that can be used to integrate Physna's functionality into existing Applications to enhance your company's business processes.
 
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
 - Your Physna point of contact, typically an Account Executive or a Customer Success Team Member will provide you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 

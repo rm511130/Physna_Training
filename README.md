@@ -208,7 +208,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 ![Create Folder](./images/create_folder.gif)
    
-2. Physna is able to ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). The complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). In this [Google Drive Location](https://drive.google.com/drive/folders/10XPHflPdBdPmuFKHL-qmeDRbjZHZRkb2?usp=sharing) you will find several versions of the same model. Please download all of them to your machine, they will be downloaded in zipped format. Unzip the file to a directory of your choice, and upload all of the models into the Physna Folder you created in the previous step. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
+2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created on the previous step. In the animation below, we are loading the files into the _**AB1**_ folder as an example.
    
 ![Upload Files](./images/Upload_Files.gif)
    

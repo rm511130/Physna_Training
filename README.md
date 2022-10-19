@@ -11,7 +11,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find matching models within a certain threshold of similarity
 - find duplicate models
 
-Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities. The Workshop is focused on the part-to-part and part-in-part queries as well as on the associated functionality such as the match report.
+Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities. The Workshop is focused on part-to-part and part-in-part queries.
 
 ## Workshop Pre-requisites:
 

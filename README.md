@@ -45,10 +45,10 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 - Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as [APIs](https://physna.github.io/public-api-guide/) that can be used to integrate Physna's functionality to enhance existing applications that support your company's business processes.
 
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
-- Your Physna point of contact, typically an Account Executive or a Customer Success Team Member will provide you a URL to access your firewalled, dedicated, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
-- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business Email Address or Single-Sign-On ID. If MFA (Multi-Factor Authentication) has been implemented, you will be asked to follow your company's standard MFA procedures.
-- Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results. Other browsers have limitations that impede the use of all features.
-- The Login Page is simple and comes with links in case you forget your username or password.
+- Your Physna point of contact, typically an Account Executive or a Customer Success Team Member, will provide you a URL to access your firewalled, single-tenant, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
+- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business email address.
+- Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results.
+- The Login Page comes with links in case you forget your username or password.
 
 <kbd>![Login-Page](./images/login_page_ext.jpg)</kbd>
 
@@ -60,9 +60,9 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
-   For more details, you will find the process described in [Section 2](#how-do-i-access) and the [User Management](#user_management) sections of this document.
+   For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.
 3. Log into your Physna environment. If you encounter any issues, please ask for assistance.
-4. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 1.  
+4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 1.  
 5. Congratulations: you have completed _Task 1_ of the Workshop.
 
 _Workshop Tip: when asked to click on a URL on this page, it will often be better to right-click and open the link using a new Tab so as to not lose where you are in this document._

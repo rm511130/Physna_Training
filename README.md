@@ -30,8 +30,8 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
    3c) [Folders](#Folders)  
    3d) [Uploading Files](#Uploading_Files)  
    3e) [Workshop Task 3: Model Ingestion](#Workshop_3)  
-4. [3D Geometric Search](#3D Geometric Search)
-   4a) [Workshop Task 4: Find Matches](#Workshop_4) 
+4. [3D Geometric Search](#3D_Geometric_Search)  
+   4a) [Workshop Task 4: Find Matches](#Workshop_4)  
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
 7. [Security](#security)
@@ -228,7 +228,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 5. Congratulations: you have completed _Task 3_ of the Workshop.
    
-## 4. 3D Geometric Search<a name="3D Geometric Search"><a/>
+## 4. 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
 - In the previous chapters we learned how to create folders, upload a files, and navigate around the Physna's UI. In this chapter we will provide some examples of the types of practical operations one can perform.
 

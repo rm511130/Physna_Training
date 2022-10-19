@@ -221,18 +221,35 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
-3. The previous step must have ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamurger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
+3. The previous step must have ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamburger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
    
 4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
    
 5. Congratulations: you have completed _Task 3_ of the Workshop.
    
-## 4. Example Use Cases<a name="use-cases"><a/>
+## 4. 3D Geometric Search
+   
+- In the previous chapters we learned how to create folders, upload a files, and navigate around the Physna's UI. In this chapter we will provide some examples of the types of practical operations one can perform.
 
-In the previous chapters we learned how to upload a file and how to navigate around the Physna's web site. In this chapter we will provide some examples of the types of practical operations one could perform.
+### 4a. Workshop Task 4: Part Match<a name="Workshop_4"><a/>     
+   
+- In this section we will make use of the 17 files uploaded in the previous Work Task.
+   
+1. Per the animation below, please click on the _**Physna**_ logo at the top left-hand corner of the Physna UI. This will take you to the main landing page. Then check the check-box next to the folder containing your files.
+   
+   <kbd>![17vs16](./images/17vs16.gif)</kbd>
+   
+2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question: why are there not 17 models? The answer to this question is provided at the end of this Workshop Task 4.
+   
+3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with 6 _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully and try to repeat the same steps: 
+   
+   <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
+   
+4. Per the animation below, please click on _**Find Matches**_ corresponding to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. Question: why are there 9 matches? The answer to this question is provided at the end of this Workshop Task 4.
 
-### Searching for duplicate/similar parts
-
+   <kbd>![9_matches](./images/9_matches.gif)</kbd>
+   
+   
 Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 
 With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system and practice. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.

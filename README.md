@@ -245,7 +245,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 <details>
   <summary>Answer #1</summary>
   
-    Because the _MTL\_PZ2.mtl_ and the _OBJ\_PZ2.obj_ files work together to define a 3D model. All the other files were self-contained.
+  - Because the _MTL\_PZ2.mtl_ and the _OBJ\_PZ2.obj_ files work together to define a 3D model. All the other files were self-contained.
 
 </details>   
    

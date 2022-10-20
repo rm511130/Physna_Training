@@ -240,17 +240,39 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![17vs16](./images/17vs16.gif)</kbd>
    
-2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question #1: you uploaded 17 files so why are there not 17 models? The answer to this question is provided at the end of this Workshop Task 4.
+2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question #1: you uploaded 17 files so why are there not 17 models? 
+   
+<details>
+  <summary>Answer #1</summary>
+  
+  Because the _MTL\_PZ2.mtl_ and the _OBJ\_PZ2.obj_ files work together to define a 3D model. All the other files were self-contained.
+
+</details>   
    
 3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully and try to repeat the same steps. 
    
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
-4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Question #2: why are there 9 matches? The answer to this question is provided at the end of this Workshop Task 4.
+4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Question #2: why are there 9 matches? 
+   
+<details>
+  <summary>Answer #2</summary>
+  
+  Because you uploaded 6 _.SLDPRT_ individual puzzle pieces + 1 _.SLDASM_ complete puzzle + 9  complete puzzles in various other formats.
+  A total of 16 models were loaded but only 9 of them were complete puzzles that geometrically matched the _PZ2.SLDASM_ model used as the search criteria. 
 
+</details> 
+   
    <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
 
-5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? The answer to this question is provided at the end of this Workshop Task 4. 
+5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
+   
+<details>
+  <summary>Answer #3</summary>
+  
+  Because the _Single\_STL\_PZ2.STL_ file is a monolithic model as opposed to the _STL\_PZ2.STL_ and all the other multi-body models. 
+
+</details>   
    
    <kbd>![Single_STL](./images/single_stl.gif)</kbd>
 

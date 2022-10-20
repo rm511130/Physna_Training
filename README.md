@@ -55,7 +55,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 - Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results.
 - The Login Page comes with links in case you forget your username or password.
 
-<kbd>![Login-Page](./images/login_page_ext.jpg)</kbd>
+<kbd>![Login-Page](./images/login_page_ext_v2.jpg)</kbd>
 
 - When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.

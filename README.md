@@ -244,7 +244,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <details>
   <summary>Answer #1</summary> 
-   -- Because the MTL_PZ2.mtl and the OBJ_PZ2.obj files work together to define a 3D model. All the other files are self-contained.
+   -- Because the MTL_PZ2.mtl and OBJ_PZ2.obj files work together to define a 3D model. All the other files are self-contained.
 
 </details>   
    
@@ -256,9 +256,8 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <details>
   <summary>Answer #2</summary>
-  
-  Because you uploaded 6 _.SLDPRT_ individual puzzle pieces + 1 _.SLDASM_ complete puzzle + 9  complete puzzles in various other formats.
-  A total of 16 models were loaded but only 9 of them were complete puzzles that geometrically matched the _PZ2.SLDASM_ model used as the search criteria. 
+  -- Because you uploaded 6 .SLDPRT individual puzzle pieces + 1 .SLDASM complete puzzle + 9  complete puzzles in various other formats.
+  A total of 16 models were loaded but only 9 of them were complete puzzles that geometrically match the PZ2.SLDASM model used as the search criteria. 
 
 </details> 
    
@@ -268,14 +267,13 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <details>
   <summary>Answer #3</summary>
-  
-  Because the _Single\_STL\_PZ2.STL_ file is a monolithic model as opposed to the _STL\_PZ2.STL_ and all the other multi-body models. 
+  -- Because Single_STL_PZ2.STL is a monolithic model as opposed to all the other multi-body models. 
 
 </details>   
    
    <kbd>![Single_STL](./images/single_stl.gif)</kbd>
 
-6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Observe that, even though the _**Single_STL_PZ2.STL**_ model is a monolithic STL file, Physna matches it to it's 9 siblings because they have very similar geometries.
+6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Observe that, even though the _**Single_STL_PZ2.STL**_ model is a monolithic STL file, Physna matches it to its 9 siblings because they have very similar geometries.
    
     <kbd>![Single_STL_Find_Matches](./images/single_stl_find_matches.gif)</kbd>  
    

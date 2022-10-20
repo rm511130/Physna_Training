@@ -224,7 +224,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
-3. The previous step must have ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamburger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
+3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamburger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
    
 4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
    

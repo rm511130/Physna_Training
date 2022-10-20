@@ -101,10 +101,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
     (iii) Scan Match: compares models volumetrically and is useful when dealing with a high-poly, scanned model. 
    
-    (iv) Classification Match: finds models using their geometric classification or predicted geometric classification
-   
-   
-4. The radio buttons are used to switch the results between the 4 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
+4. The radio buttons are used to switch the results between the 3 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
 5. The match tolerance between 0 and 100% is used to filter the search result set.
 6. The model chosen as the subject for the searches. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find matches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
@@ -125,7 +122,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
     
 13. The ability to toggle the display of results between the tighter table format shown above and the bigger thumbnails format shown below.
 
-<kbd>![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)</kbd>
+<kbd>![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page_v2.jpg)</kbd>
 
 ![](./images/thin_line.jpg)
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>

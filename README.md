@@ -85,11 +85,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models.
 
-<kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page.jpg)</kbd>
+<kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page_v2.jpg)</kbd>
 
 - Let's dive into the main landing page features using the annotated diagram shown below. Please follow the sequence of numbers and their descriptions:<a name="Commented_Main_Page"><a/>
 
-<kbd>![Commented_Main_Page](./images/Commented_Main_Page_v1.jpg)</kbd>
+<kbd>![Commented_Main_Page](./images/Commented_Main_Page_v2.jpg)</kbd>
 
 1. The search bar is for case-insensitive searches of partial or complete names of models, filenames, or metadata elements about the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  

@@ -140,7 +140,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
-2. Please look for box #1 (the search bar) on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the "return/enter" key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+2. Please look for box #1 (the search bar) on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query.gif)</kbd>
    

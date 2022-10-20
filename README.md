@@ -212,13 +212,15 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
    <kbd>![Create Folder](./images/create_folder.gif)</kbd>
    
-2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice and then upload all of the resulting files (3D models) into the Physna Folder you created in the previous step. In the animation below, we are loading the files into the _**AB1**_ folder.
+2. Physna can ingest and understand multiple file formats (3MF, ACIS, CATIA, FBX, GLTF, GLB, IGES, JT, STEP, ...). A complete list of supported file formats and caveats can be found [here](https://docs.google.com/document/d/1Bwr-YQktKb_Y3AXQRUWrCZb2mtQNvqm1-0QBexgzfkE/edit?pli=1#heading=h.50d3wyapewkj). For this step of the Workshop, please download [this zipped file](https://drive.google.com/file/d/1iF_fp_l7_B9b8BcbJAT9AOXdi36-l9i7/view?usp=sharing) to your machine. Unzip the file to a directory of your choice.
 
    **_Important Details:_**
      - Extracting the contents of the zipped file to a directory is a necessary step. Physna will not read the files stored within the zipped file.
      - Make sure to select **_your_** Physna folder as the destination.
      - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
      - Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.    
+   
+Now that you have read the _Important Details_ above, please upload all of the 17 extracted files into the Physna Folder you created in the previous step. The animation below shows the whole process described above. In the animation we're loading the 17 files into the _**AB1**_ folder. 
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    

@@ -242,7 +242,9 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![17vs16](./images/17vs16.gif)</kbd>
    
-2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question #1: you uploaded 17 files so why are there not 17 models? 
+2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. 
+   
+Question #1: you uploaded 17 files so why are there not 17 models? 
    
 <details>
   <summary>Answer #1</summary> 
@@ -254,7 +256,9 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
-4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Question #2: why are there 9 matches? 
+4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. 
+   
+Question #2: why are there 9 matches? 
    
 <details>
   <summary>Answer #2</summary>
@@ -265,7 +269,9 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
 
-5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
+5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. 
+   
+Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
    
 <details>
   <summary>Answer #3</summary>
@@ -283,7 +289,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
      <kbd>![Part Match of ASM](./images/asm_part_match.gif)</kbd>    
 
-   Question #4: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
+ Question #4: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
    
  <details>
   <summary>Answer #4</summary>
@@ -296,7 +302,14 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
     <kbd>![PZ2-01 Part Match](./images/pz2_01_part_match.gif)</kbd>  
    
+ Question #5: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
    
+ <details>
+  <summary>Answer #5</summary>
+  -- The Forward Match values show how much of the PZ2-01 puzzle piece can be found in each of the 10 complete puzzles.
+     The Reverse Match values show how much the PZ2-01 puzzle piece represents of each complete puzzle model.
+
+</details>      
    
    
    

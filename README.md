@@ -5,11 +5,12 @@
 This guide describes the features available to an End User of the Physna Enterprise Platform, a cloud-based 3D Geometric Search and Analysis solution enhanced by AI/ML. The intended audience includes anyone with access to a Physna Enterprise GUI environment who would like to:
 
 - upload models (CAD or SCAN files of parts or assemblies)
-- organize models in folders and projects
+- organize models in folders
 - add or upload metadata associated to models
 - search for models within other models 
 - find matching models within a certain threshold of similarity
-- find duplicate models
+- find duplicate model
+- compare models visually to detect differences and similarities
 
 Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities.
 
@@ -19,6 +20,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 - Read/Write access to this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). Please check that you do have read/write access to it.
 - 1 hour of total elapsed time to dedicate to the Workshop Steps.
 
+---
 ## Table of Contents
 
 1. [What is Physna and what is it not?](#what-is-physna)
@@ -40,11 +42,13 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
    3) [Cookies](#cookies)
    4) [User Management](#user_management)
 
+---
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
 - Physna Enterprise is a cloud-based tool that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
 - Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
 - Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as [APIs](https://physna.github.io/public-api-guide/) that can be used to integrate Physna's functionality and enhance existing applications that support your company's business processes.
 
+---
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
 - Your Physna point of contact, typically an Account Executive or a Customer Success Team Member, will provide you a URL to access your firewalled, single-tenant, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
 - Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business email address.
@@ -56,9 +60,9 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 - When you first access a Physna Environment, you will be asked to set preferences and to accept the storing of cookies on your device.
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
 
-
-### 2a. Workshop Task 1<a name="WorkShop_1"></a>
 ![](./images/thin_line.jpg)
+### 2a. Workshop Task 1<a name="WorkShop_1"></a>
+
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.
@@ -68,14 +72,15 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 _Workshop Tip: when asked to click on a URL on this page, it will often be better to right-click and open the link using a new Tab so as to not lose where you are in this document._
 
-
+---
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
    
 - This section covers the main page of Physna's UI and all of its features. 
 - Once familiarized with the features available, you will have a Workshop Task to reinforced what has been described.
 - Depending on your user role and the set of features your company has subscribed to use, some of the menu items shown in this document may not be active or available to you.
 - Physna's UI is being actively updated to use React. Some of its features will still be based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Tasks. 
-   
+
+![](./images/thin_line.jpg)
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
 - The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models.
@@ -122,7 +127,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 <kbd>![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page.jpg)</kbd>
 
-
+![](./images/thin_line.jpg)
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>
 
 1. In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
@@ -158,6 +163,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
   
 7. Congratulations: you have completed _Task 2_ of the Workshop.   
 
+![](./images/thin_line.jpg)
 ### 3c. Folders<a name="Folders"></a>
 
 - Folders in Phynsa are containers that help you organize your 3D models. You can search across folders, but storing models in distinct folders provides a logical structure for organizing your data.
@@ -180,6 +186,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
 
+![](./images/thin_line.jpg)
 ### 3d. Uploading Files<a name="Uploading_Files"></a>
 
 - For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
@@ -204,6 +211,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 - At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page.
 
+![](./images/thin_line.jpg)
 ### 3e. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
    
 - In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
@@ -229,11 +237,13 @@ Now that you have read the _Important Details_ above, please upload all of the 1
 4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
    
 5. Congratulations: you have completed _Task 3_ of the Workshop.
-   
+
+---
 ## 4. 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
 - In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI. In this chapter, we will provide some examples of the types of practical operations one can perform using Physna.
 
+![](./images/thin_line.jpg)
 ### 4a. Workshop Task 4: Find Matches<a name="Workshop_4"><a/>     
    
 - In this section we will make use of the 17 files uploaded in the previous Work Task.

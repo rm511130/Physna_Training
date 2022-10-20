@@ -243,7 +243,8 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. Question #1: you uploaded 17 files so why are there not 17 models? 
    
 <details>
-  <summary>Answer #1</summary> Because the _MTL\_PZ2.mtl_ and the _OBJ\_PZ2.obj_ files work together to define a 3D model. All the other files were self-contained.
+  <summary>Answer #1</summary> 
+   -- Because the MTL_PZ2.mtl and the OBJ_PZ2.obj files work together to define a 3D model. All the other files are self-contained.
 
 </details>   
    

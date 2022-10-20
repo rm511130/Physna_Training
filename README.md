@@ -144,7 +144,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <kbd>![xx_query](./images/xx_query.gif)</kbd>
    
-3. On Tab3 (the Physna UI query page) look for the thumbnail of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
+3. On Tab3 (the Physna UI query page) look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    
 <kbd>![xx58949_viewer_page](./images/xx58949_viewer_page.gif)</kbd>
 
@@ -152,7 +152,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 <kbd>![matches_xx58949](./images/matches_xx58949.gif)</kbd>
 
-5. Per the animation shown above, there are 4 types of matches that you can access. We will focus on the 1st two: match or part-to-part match, and part-match or part-in-part match. Observe the animation above carefully to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). The animation also shows the results of a part-in-part match: a turbocharger and an intake valve. Take the time to click around and get familiarized with the other features such as box #10 for the download of CSV formatted data and box #13 for a "shopping cart" view of the thumbnails.
+5. Per the animation shown above, there are 3 types of matches that you can access. Observe the animation above carefully to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). The animation also shows the results of a part-in-part match: a turbocharger and an intake valve. Take the time to click around and get familiarized with the other features such as box #10 for the download of CSV formatted data and box #13 for a "shopping cart" view of the thumbnails.
    
 6. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
   

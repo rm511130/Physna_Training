@@ -58,7 +58,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 
 ### 2a. Workshop Task 1<a name="WorkShop_1"></a>
-
+![](./images/thin_line.jpg)
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.

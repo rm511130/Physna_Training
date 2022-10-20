@@ -265,7 +265,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
 
-5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
+5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
    
 <details>
   <summary>Answer #3</summary>

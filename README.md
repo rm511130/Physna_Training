@@ -248,7 +248,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 </details>   
    
-3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully and try to repeat the same steps. 
+3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully to see how Physna is aware of all the parts that compose the assembly. 
    
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
@@ -277,8 +277,31 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
     <kbd>![Single_STL_Find_Matches](./images/single_stl_find_matches.gif)</kbd>  
    
-7. Use the search bar to search for _**PZ2   
-Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
+7. Let's go back to the _**PZ2.SLDASM**_ model. Click on the _**Find Matches**_ link next to the thumbnail of the _**PZ2.SLDASM**_ model. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Now select the _**Part Match**_ radio button under the _**Match Type**_ section of the page (at the top left-hand corner of your window). 
+   
+     <kbd>![Part Match of ASM](./images/asm_part_match.gif)</kbd>    
+
+   Question #4: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
+   
+ <details>
+  <summary>Answer #4</summary>
+  -- The Reverse Match values are all 100% because each puzzle piece fits perfectly in the PZ2.SLDASM model.
+     The Forward Match values show how much each puzzle piece represents of the complete PZ2.SLDASM model. The Forward Match %s add up to 100%. 
+
+</details>   
+   
+ 8. As shown in the animation below, please click on the _**Find Matches**_ link of the _**PZ2-01**_ model. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Select the _**Part Match**_ radio button under the _**Match Type**_ section of the page, and adjust the _**Match Tolerance**_ threshold down to _**40%**_.
+   
+    <kbd>![PZ2-01 Part Match](./images/pz2_01_part_match.gif)</kbd>  
+   
+   
+   
+   
+   
+   
+   
+   
+ Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 
 
 With large teams and/or number of models, it is often possible to produce duplicate or at least very similar designs. This occurs even in cases where the company utilizes good PLM system and practice. In such cases, we find ourselves in a situation where the same part may be registered with different part numbers and has duplicate 3D models stored.
 

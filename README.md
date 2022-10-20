@@ -125,11 +125,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>
 
-1. In preparation for this Workshop Task, a folder named [Turbo](https://delta.physna.com/app/search?folders=38) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/9575acea-ee53-4ddf-b75f-d884a49b99b6?search=turbocharger) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
+1. In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
  
    a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab, then come back to this page to continue on to step (b).
    
-   b. right-click on the [Turbo Folder](https://delta.physna.com/app/search?folders=38) link and open it in yet another new browser tab, then come back to this page to continue with step (c).   
+   b. right-click on the [Turbo Folder](https://nu.physna.com/app/search?folders=7) link and open it in yet another new browser tab, then come back to this page to continue with step (c).   
   
    c. You should now have at least 3 open Tabs on your browser window: 
    - _Tab 1_ is this page with the instructions you are following, 

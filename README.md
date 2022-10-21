@@ -127,24 +127,26 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ![](./images/thin_line.jpg)
 ### 3b. Workshop Task 2<a name="WorkShop_2"></a>
 
-1. In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface.
+In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
+
+1. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface. This first step is more of a suggestion as to how you can organize your screen for advancing efficiently through the different Workshop Tasks:
  
-   a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab, then come back to this page to continue on to step (b).
+   a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab.
    
-   b. right-click on the [Turbo Folder](https://nu.physna.com/app/search?folders=7) link and open it in yet another new browser tab, then come back to this page to continue with step (c).   
+   b. right-click on the [Turbo Folder](https://nu.physna.com/app/search?folders=7) link and open it in yet another new browser tab.   
   
    c. You should now have at least 3 open Tabs on your browser window: 
    - _Tab 1_ is this page with the instructions you are following, 
    - _Tab 2_ is for quick access to the annotated main-page of Physna's UI, and 
    - _Tab 3_ is for Physna's UI where you will run queries and look at results.
    
-   d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as follows:
+   d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as shown in the animation below. Note that this is not a mandatory step, it's just a suggestion:
    
 <kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
-2. Please look for box #1 (the search bar) on Tab 3 (the Physna UI query page) and type _**xx**_ in the search bar. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7) you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
-<kbd>![xx_query](./images/xx_query.gif)</kbd>
+<kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    
 3. On Tab3 (the Physna UI query page) look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    

@@ -238,7 +238,7 @@ Question #2: What are the possible file status values?
 ---
 ## 4. Advanced 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
-- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide some examples of more complex comparisons that arise from comparisons between different file formats.
+- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide some examples of more complex comparisons that arise from dealing with different file formats.
 
 ![](./images/thin_line.jpg)
 ### 4a. Workshop Task 4: Find Matches<a name="Workshop_4"><a/>     

@@ -222,7 +222,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
 4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://nu.physna.com/app/search. You can then select your particular folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
    
-Question #2: WHat are the possible file status values? 
+Question #2: What are the possible file status values? 
    
 <details>
   <summary>Answer #2</summary> 

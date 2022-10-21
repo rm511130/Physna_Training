@@ -29,9 +29,7 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 3. [Navigating the Physna User Interface](#navigating-the-ui)  
    3a) [Main Landing Page](#Main_Landing_Page)  
    3b) [Workshop Task 2: Main Page](#WorkShop_2)  
-   3c) [Folders](#Folders)  
-   3d) [Uploading Files](#Uploading_Files)  
-   3e) [Workshop Task 3: Model Ingestion](#Workshop_3)  
+   3c) [Workshop Task 3: Model Ingestion](#Workshop_3)  
 4. [3D Geometric Search](#3D_Geometric_Search)  
    4a) [Workshop Task 4: Find Matches](#Workshop_4)  
 5. [Help and Support](#help_and_support)
@@ -186,55 +184,7 @@ The animation above culminates by showing a comparison between two models that w
 9. Congratulations: you have completed _Task 2_ of the Workshop.   
 
 ![](./images/thin_line.jpg)
-### 3c. Folders<a name="Folders"></a>
-
-- Folders in Phynsa are containers that help you organize your 3D models. You can search across folders, but storing models in distinct folders provides a logical structure for organizing your data.
-
-- To list your folders, open the hamburger menu (the triple horizontal lines) on the upper left corner and select _**Folders**_.
-
-<kbd>![folders-1](./images/folders-1.png)</kbd>
-
-- This will display the list of folders.
-
-<kbd>![folders-1](./images/folders-2.png)</kbd>
-
-- To create a new folder, click on the "Actions" button on the upper right corner and select _**Create  New Folder**_ from the drop-down menu.
-
-   <kbd><img src="./images/folders-3.png" style="width:200px;"/></kbd>
-
-- Enter the name of the new folder and click the _**Create**_ button.
-
-   <kbd><img src="./images/folders-4.png" style="width:400px;"/></kbd>
-
-- To delete a folder, click on the trashcan icon next to the folder name in the folder list page.   
-
-![](./images/thin_line.jpg)
-### 3d. Uploading Files<a name="Uploading_Files"></a>
-
-- For Physna to be able to index the geometry of your 3D models, you would need to first upload all necessary files to it. The upload button is in the upper-right corner of the page as shown here:
-
-<kbd>![upload-file-step-1-annotated](./images/upload-file-step-1-annotated.png)</kbd>
-
-- Pressing the upload button will open the upload page, as shown below:
-
-<kbd>![upload-file-details-annotated](./images/upload-file-details-annotated.png)</kbd>
-
-- Note the various components of the upload user interface:   
-   
-1. Dropdown that lists all available folders in the environment and allows the user to select the target folder for the upload. The default is "Default Container"
-2. Specify the units of measure (e.g., "inch", "feet", "millimeter" and "meter")
-3. When checked, it will prevent the upload of duplicate files. That is, files with the same source directory and filename.
-4. Pressing the "Upload Files" button will display standard file selection dialog. Choose one or more files from your local storage to be uploaded
-5. List of recently uploaded files. Mostly for your information
-
-- Clicking the "Upload Files" button will open standard file selection dialog. The way that appears will depend on your operating system. Once you confirm your file selection the file will be uploaded to Physna and indexing will be initiated. Progress bar in the right side of the page will be displayed.
-
-<kbd>![upload-file-success](./images/upload-file-success.png)</kbd>
-
-- At this time, the model should be visible in the destination folder. Physna will proceed through several stages of processing. When the processing state reaches "Finished", the model is ready for use. You can always see the status in the folder's page.
-
-![](./images/thin_line.jpg)
-### 3e. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
+### 3c. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
    
 - In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
    
@@ -260,7 +210,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
-3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (hamburger menu > folder > trash-can > Red Delete button), then start again on step 1 of this Workshop Task.
+3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trash-can > Red Delete Button), then start again on step 1 of this Workshop Task.
    
 4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
    

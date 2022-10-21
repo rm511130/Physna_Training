@@ -264,6 +264,8 @@ Question #3: You uploaded 17 files so why are there not 17 models?
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
 4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. 
+    
+   <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
    
 Question #4: Why are there 9 matches? 
    
@@ -273,8 +275,6 @@ Question #4: Why are there 9 matches?
   A total of 16 models were loaded but only 9 of them were complete puzzles that geometrically match the PZ2.SLDASM model used as the search criteria. 
 
 </details> 
-   
-   <kbd>![9_matches](./images/9_matches_v2.gif)</kbd>
 
 5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. 
    

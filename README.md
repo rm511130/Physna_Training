@@ -318,7 +318,32 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 </details>      
    
+ Question #8: When using [one of the puzzles](https://nu.physna.com/app/matches/978b18e1-134c-4b3b-9bd2-60d6a3804c0a?folders=4) to search for geometrically similar models, we see match percentages ranging from 94% to 100%. The shapes of the puzzles look identical to each other, so why don't we see 100% matches in every case? 
    
+ <details>
+  <summary>Answer #8</summary>
+  -- Different file formats encode their data in different ways, producing files of different sizes. Some of the formats encode shapes using polygonal meshes, others use formulas/parametric curves, and some formats offer support for both types of encoding. Some file formats are based on open standards and were designed for ease of data exchange, and some formats are of a proprietary nature. Physna's engine has to read and interpret each file format, and their differences sometimes lead to minor discrepancies. As an end-user, you want Physna to relate all the models of puzzles to each other, no matter the file format or file name. When the match percentage is not 100%, you can compare two models and Physna will show you where the differences in the meshes occur.
+  
+  |File Name	|	Size (KB)	|	Triangles	|	Faces	|	Bodies	|	Parts	|	Geometry	|	Colors	|
+|---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
+|3MF_PZ2.3mf	|	5	|	228	|	6	|	6	|	6	|	Tessellated	|	Yes	|
+|OBJ_PZ2.obj	|	8	|	228	|	6	|	6	|	6	|	Tessellated &  NURBS |	Yes	|
+|Single_STL_PZ2.stl	|	12	|	228	|	1	|	1	|	1	|	Tessellated	|	No 	|
+|FBX_PZ2.fbx	|	22	|	228	|	6	|	6	|	1	|	Tessellated & NURBS |	Yes	|
+|STL_PZ2.stl	|	44	|	228	|	6	|	6	|	1	|	Tessellated	|	No 	|
+|JT_PZ2.jt	|	63	|	228	|	76	|	6	|	6	|	Tessellated & NURBS	|	Yes	|
+|PZ2.SLDASM	|	80	|	228	|	76	|	6	|	6	|	Tessellated & NURBS	|	Yes	|
+|STEP_PZ2.stp	|	102	|	228	|	76	|	6	|	6	|	Tessellated & NURBS	|	Yes	|
+|X_T_PZ2.x_t	|	112	|	228	|	76	|	6	|	1	|	Parasolid B-Rep 	|	Yes	|
+|IGES_PZ2.igs	|	170	|	228	|	76	|	6	|	6	|	B-Rep	|	Yes	|
+
+  -- 
+
+</details>
+
+9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 4.  
+   
+6. Congratulations: you have completed _Task 4_ of the Workshop.
    
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>

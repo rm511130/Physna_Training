@@ -144,42 +144,46 @@ In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.
    
 <kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
-2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7) you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain "xx" and any models with metadata that contains "xx" will be listed for you. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7) you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    
-3. On Tab3 (the Physna UI query page) look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
+3. Now look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    
 <kbd>![xx58949_viewer_page](./images/xx58949_viewer_page_v2.gif)</kbd>
 
-4. The animation shown above ends with a click on _**Find Matches**_, so let's click on _**Find Matches**_ to see what other models match model _**xx58949**_ geometrically.
+4. The animation shown above ends with a click on the _**Find Matches**_ link at the top left-hand corner of the page, so let's click on _**Find Matches**_ to see what other models are geometric matches to model _**xx58949**_. 
    
 <kbd>![matches_xx58949](./images/matches_xx58949_v2.gif)</kbd>
 
-5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a 3D Geometric Match. It helps you find models that are geometrically similar to each other. Observe the animation above carefully to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58494**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. The two models come from different suppliers and have different part names. This is a very common scenario among F1000 companies.
+5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes reffered to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically similar to each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a very common scenario among F1000 companies.
    
-6. Let's now look at the 3D Geometric Part Match. Observe the animation shown below and try to repeat the same steps using your computer.
+6. Let's now look at the _**3D Geometric Part Match**_. It's often reffered to as _**Part-in-Part Match**_. Observe the 50 seconds animation shown below and try to repeat the same steps using your computer.
    
    <kbd>![Part Match and Compare](./images/part_match_n_compare_xx58949_v2.gif)</kbd>
    
-   The animation shown above covered a lot of ground in just 50 seconds. Let's break it down for you:
+   The animation shown above covered a lot of ground, so let's break it down for you:
    
-   a. We started on a _**Find Matches**_ query results page where model _**xx58494**_ was used as the search criteria.
-   b. We switched the _**Match Type**_ to _**Part Match**_ by clicking on the appropriate radio button at the top left-hand corner of the screen.
-   c. The results page refreshed to show the thumbnails and details of two assemblies that use the _**xx58494**_ bolt. 
-   d. The percentage match in both cases was 100%, indicating a perfect fit.
-   e. We used the _**Add to Compare Cart**_ links to add the _**Turbocharger**_ and the _**xx58494 Bolt**_ to the _**Compare Cart**_.
-   f. We clicked on the _**Compar**_ button on the bottom left-corner of the search page.
-   g. The _**Overview**_ comparison page allowed us to see the two models being compared to each other. They were displayed side-by-side.
-   h. The _**Overlay**_ comparison page allowed us to see the intersection between the _**Turbocharger**_ and the _**Bolt**_. Physna found 8 bolts.
-   i. The _**X Ray**_ comparison page provided a visualization that is very useful when the difference is contained within the model.
+   a. We started on a _**Find Matches**_ query results page where model _**xx58949**_ was used as the search criteria.  
+   b. We switched the _**Match Type**_ to _**Part Match**_ by clicking on the appropriate radio button at the top left-hand corner of the screen.  
+   c. The results page refreshed to show the thumbnails and details of two assemblies that use the _**xx58949**_ bolt.   
+   d. The percentage match in both cases was 100%, indicating a perfect fit.  
+   e. We used the _**Add to Compare Cart**_ links to add the _**Turbocharger**_ and the _**xx58949**_ bolt to the _**Compare Cart**_.  
+   f. We clicked on the _**Compare**_ button on the bottom left-corner of the search page.  
+   g. The resulting _**Overview**_ comparison page allowed us to see the two models displayed side-by-side.  
+   h. The _**Overlay**_ comparison page allowed us to see the intersection between the _**Turbocharger**_ and the _**Bolt**_. Physna found 8 bolts.  
+   i. The _**X Ray**_ comparison page provided a visualization that is very useful when the difference is contained within the model.  
    
-7. Let's use the 
-   The animation also shows the results of a part-in-part match: a turbocharger and an intake valve. Take the time to click around and get familiarized with the other features such as box #10 for the download of CSV formatted data and box #13 for a "shopping cart" view of the thumbnails.
+7. Let's use the [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: The _**Scan Match**_. 
+   Per the animation below, click on this link [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) to be taken to a folder containing models acquired using Photogrammetry. These are larger models made up of meshes of thousands of triangles. Select any one of the _**Find Matches**_ links next to the thumbnails of the various _**Impellers**_ and click on it. You should see that only the _**Scan Match**_, on the top left-hand corner of the screen, offers a non-zero result. That's because the models being compared are, from a geometrically precise perspective, very different from each other. The _**Scan Match**_ algorithm is tuned to look for shape and volumetric similarities, hence the reason for the results displayed on the screen.
    
-6. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
+   <kbd>![Scan Match](./images/scan_match_v2.gif)</kbd>   
+   
+The animation above culminates by showing a comparison between two models that were _**scan matched**_ with clear shape and volumetric similarities as well as clear deep geometric differences.
+      
+8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
   
-7. Congratulations: you have completed _Task 2_ of the Workshop.   
+9. Congratulations: you have completed _Task 2_ of the Workshop.   
 
 ![](./images/thin_line.jpg)
 ### 3c. Folders<a name="Folders"></a>

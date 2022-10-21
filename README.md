@@ -238,7 +238,11 @@ The animation above culminates by showing a comparison between two models that w
    
 - In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
    
-1. On the top left-hand corner, the triple horizontal lines can be used to open or close the sub-menu of advanced features and file management options that will give you access to creating folders as seen in [section 3c](#Folders). Go ahead and click on the triple horizontal lines (hamburger menu) and then click on _**Folders**_. Click on _**Actions**_ on the top right-hand corner of the screen, then on _**Create New Folder**_. Create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_. See animation below:
+1. The triple horizontal lines, on the top left-hand corner of your Physna UI, can be used to open or close the sub-menu of features and file management options that will give you access to creating folders.  
+   a. Click on the triple horizontal lines (hamburger menu)  
+   b. Click on _**Folders**_  
+   c. Click on _**Actions**_ on the top right-hand corner of the screen.  
+   d. Click on _**Create New Folder**_ and create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_. See animation below:  
    
    <kbd>![Create Folder](./images/create_folder.gif)</kbd>
    

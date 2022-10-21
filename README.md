@@ -156,11 +156,11 @@ In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.
 
 5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes reffered to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically similar to each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a very common scenario among F1000 companies.
    
-6. Let's now look at the _**3D Geometric Part Match**_. It's often reffered to as _**Part-in-Part Match**_. Observe the 50 seconds animation shown below and try to repeat the same steps using your computer.
+6. Let's now look at the _**3D Geometric Part Match**_. It's often reffered to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
    
    <kbd>![Part Match and Compare](./images/part_match_n_compare_xx58949_v2.gif)</kbd>
    
-   The animation shown above covered a lot of ground, so let's break it down for you:
+   The 50 seconds animation shown above covered a lot of ground, so let's break it down for you:
    
    a. We started on a _**Find Matches**_ query results page where model _**xx58949**_ was used as the search criteria.  
    b. We switched the _**Match Type**_ to _**Part Match**_ by clicking on the appropriate radio button at the top left-hand corner of the screen.  

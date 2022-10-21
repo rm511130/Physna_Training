@@ -277,6 +277,8 @@ Question #4: Why are there 9 matches?
 </details> 
 
 5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. 
+
+   <kbd>![Single_STL](./images/single_stl.gif)</kbd>   
    
 Question #5: Why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
    
@@ -286,8 +288,6 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 </details>   
    
-   <kbd>![Single_STL](./images/single_stl.gif)</kbd>
-
 6. Click on the _**Find Matches**_ link of the _**Single_STL_PZ2.STL**_ model, at the top left-hand corner of the page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Observe that, even though the _**Single_STL_PZ2.STL**_ model is a monolithic STL file, Physna matches it to its 9 siblings because they have very similar geometries.
    
     <kbd>![Single_STL_Find_Matches](./images/single_stl_find_matches.gif)</kbd>  

@@ -178,6 +178,14 @@ In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.
    <kbd>![Scan Match](./images/scan_match_v2.gif)</kbd>   
    
 The animation above culminates by showing a comparison between two models that were _**scan matched**_ due to their shape and volumetric similarities. The comparison also shows clear deep geometric differences once we get closer to the surface of the two models.
+   
+Question #1: How are the percentage match numbers calculated? 
+   
+<details>
+  <summary>Answer #1</summary> 
+   -- In the case of Match and Part-Match, Physna's algorithm looks at every internal and external geometric detail of assemblies and parts, to create input parameters used in its patented 3D geometric algorithm. If the match percentage is 100%, you can be sure of a perfect geometric match. If the match percentage is 80% or above, you can expect to see a close match. In the case of Scan-Match, shape and volumetric details take precedence in the algorithm.  
+
+</details>  
       
 8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
   
@@ -186,7 +194,7 @@ The animation above culminates by showing a comparison between two models that w
 ![](./images/thin_line.jpg)
 ### 3c. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
    
-- In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly using different reports and query mechanisms.
+- In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly.
    
 1. The triple horizontal lines, on the top left-hand corner of your Physna UI, can be used to open or close the sub-menu of features and file management options that will give you access to creating folders.  
    a. Click on the triple horizontal lines (hamburger menu)  
@@ -212,14 +220,25 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
 3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trash-can > Red Delete Button), then start again on step 1 of this Workshop Task.
    
-4. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
+4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://nu.physna.com/app/search. You can then select your particular folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
    
-5. Congratulations: you have completed _Task 3_ of the Workshop.
+Question #2: WHat are the possible file status values? 
+   
+<details>
+  <summary>Answer #2</summary> 
+   -- Physna's file ingestion pipeline goes through several phases. The sequence of phases for assemblies is:
+      Incomplete-upload > Received > Unprocessed -> Missing Parts -> Satisfied -> Normalized -> Queued -> Indexing -> Indexed -> Matching -> Finished or Failed or Unsupported or Missing-Parts
+
+</details>    
+   
+5. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
+   
+6. Congratulations: you have completed _Task 3_ of the Workshop.
 
 ---
-## 4. 3D Geometric Search<a name="3D_Geometric_Search"><a/>
+## 4. Advanced 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
-- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI. In this chapter, we will provide some examples of the types of practical operations one can perform using Physna.
+- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide some examples of more complex comparisons that arise from comparisons between different file formats.
 
 ![](./images/thin_line.jpg)
 ### 4a. Workshop Task 4: Find Matches<a name="Workshop_4"><a/>     
@@ -232,10 +251,10 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
 2. Scroll up and down to see all the models. Observe the different file-types ingested and understood by Physna. You should see a total of 16 models. 
    
-Question #1: you uploaded 17 files so why are there not 17 models? 
+Question #3: You uploaded 17 files so why are there not 17 models? 
    
 <details>
-  <summary>Answer #1</summary> 
+  <summary>Answer #3</summary> 
    -- Because the MTL_PZ2.mtl and OBJ_PZ2.obj files work together to define a 3D model. All the other files are self-contained.
 
 </details>   
@@ -246,10 +265,10 @@ Question #1: you uploaded 17 files so why are there not 17 models?
    
 4. Per the animation below, please click on the _**Find Matches**_ link that corresponds to _**PZ2.SLDASM**_ at the top left-hand corner of the viewer page. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. 
    
-Question #2: why are there 9 matches? 
+Question #4: Why are there 9 matches? 
    
 <details>
-  <summary>Answer #2</summary>
+  <summary>Answer #4</summary>
   -- Because you uploaded 6 .SLDPRT individual puzzle pieces + 1 .SLDASM complete puzzle + 9  complete puzzles in various other formats.
   A total of 16 models were loaded but only 9 of them were complete puzzles that geometrically match the PZ2.SLDASM model used as the search criteria. 
 
@@ -259,10 +278,10 @@ Question #2: why are there 9 matches?
 
 5. Look for the _**Single_STL_PZ2.STL**_ file on your screen and click on its thumbnail to open its model viewer page. Try to _**explode**_ or to select sub-sections of the model, as shown in the animation below. 
    
-Question #3: why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
+Question #5: Why are you not able to select any of the 6 puzzle pieces seen in the previous step? 
    
 <details>
-  <summary>Answer #3</summary>
+  <summary>Answer #5</summary>
   -- Because Single_STL_PZ2.STL is a monolithic model as opposed to all the other multi-body models. 
 
 </details>   
@@ -277,10 +296,10 @@ Question #3: why are you not able to select any of the 6 puzzle pieces seen in t
    
      <kbd>![Part Match of ASM](./images/asm_part_match.gif)</kbd>    
 
- Question #4: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
+ Question #6: What do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
    
  <details>
-  <summary>Answer #4</summary>
+  <summary>Answer #6</summary>
   -- The Reverse Match values are all 100% because each puzzle piece fits perfectly in the PZ2.SLDASM model.
      The Forward Match values show how much each puzzle piece represents of the complete PZ2.SLDASM model. The Forward Match %s add up to 100%. 
 
@@ -290,10 +309,10 @@ Question #3: why are you not able to select any of the 6 puzzle pieces seen in t
    
     <kbd>![PZ2-01 Part Match](./images/pz2_01_part_match.gif)</kbd>  
    
- Question #5: what do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
+ Question #7: What do the _**Forward Match**_ and _**Reverse Match**_ % numbers represent?
    
  <details>
-  <summary>Answer #5</summary>
+  <summary>Answer #7</summary>
   -- The Forward Match values show how much of the PZ2-01 puzzle piece can be found in each of the 10 complete puzzles.
      The Reverse Match values show how much the PZ2-01 puzzle piece represents of each complete puzzle model.
 
@@ -301,7 +320,7 @@ Question #3: why are you not able to select any of the 6 puzzle pieces seen in t
    
    
    
-   
+---------------------------   
    
    
  Provided that we have uploaded our inventory of parts to Physna as described earlier and all our models are in "Finished" state, we are ready to search for similar parts. 

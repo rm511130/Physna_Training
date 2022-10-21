@@ -242,7 +242,9 @@ The animation above culminates by showing a comparison between two models that w
    a. Click on the triple horizontal lines (hamburger menu)  
    b. Click on _**Folders**_  
    c. Click on _**Actions**_ on the top right-hand corner of the screen.  
-   d. Click on _**Create New Folder**_ and create a folder unique to you. The folder name must have 3 or more alphanumeric characters. You can use, for example, _**AB1**_ if your initials are _**AB**_. See animation below:  
+   d. Click on _**Create New Folder**_ and create a folder unique to you. The folder name must have 3 or more alphanumeric characters. 
+   
+   In the animation below, we used _**AB1**_ as the folder name:  
    
    <kbd>![Create Folder](./images/create_folder.gif)</kbd>
    

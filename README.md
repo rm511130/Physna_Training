@@ -150,7 +150,7 @@ In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.
    
 3. On Tab3 (the Physna UI query page) look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    
-<kbd>![xx58949_viewer_page](./images/xx58949_viewer_page.gif)</kbd>
+<kbd>![xx58949_viewer_page](./images/xx58949_viewer_page_v2.gif)</kbd>
 
 4. The animation shown above ends with a click on _**Find Matches**_, so let's click on _**Find Matches**_ to see what other models match model _**xx58949**_ geometrically.
    

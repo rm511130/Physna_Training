@@ -179,7 +179,7 @@ In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.
    
    <kbd>![Scan Match](./images/scan_match_v2.gif)</kbd>   
    
-The animation above culminates by showing a comparison between two models that were _**scan matched**_ with clear shape and volumetric similarities as well as clear deep geometric differences.
+The animation above culminates by showing a comparison between two models that were _**scan matched**_ due to their shape and volumetric similarities. The comparison also shows clear deep geometric differences once we get closer to the surface of the two models.
       
 8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
   

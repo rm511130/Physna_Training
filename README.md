@@ -12,7 +12,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find duplicate model
 - compare models visually to detect differences and similarities
 
-Throughout this guide you will find numbered _**Workshop Tasks**_ that have been crafted to demonstrate Physna's capabilities.
+Throughout this guide you will find numbered _**Workshop Labs**_ that have been crafted to demonstrate Physna's capabilities.
 
 ## Workshop Pre-requisites:
 
@@ -25,13 +25,14 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 1. [What is Physna and what is it not?](#what-is-physna)
 2. [How do I access a Physna environment?](#how-do-i-access)  
-   2a) [Workshop Task 1: Login](#WorkShop_1)
+   2a) [Workshop Lab 1: Login](#WorkShop_1)
 3. [Navigating the Physna User Interface](#navigating-the-ui)  
    3a) [Main Landing Page](#Main_Landing_Page)  
-   3b) [Workshop Task 2: Main Page](#WorkShop_2)  
-   3c) [Workshop Task 3: Model Ingestion](#Workshop_3)  
+   3b) [Workshop Lab 2: Main Page](#WorkShop_2)  
+   3c) [Workshop Lab 3: Model Ingestion](#Workshop_3)  
 4. [3D Geometric Search](#3D_Geometric_Search)  
-   4a) [Workshop Task 4: Find Matches](#Workshop_4)  
+   4a) [Workshop Lab 4: Find Matches](#Workshop_4)  
+   4b) [Workshop Lab 4: Advanced Comparisons](#Workshop_5) 
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
 7. [Security](#security)
@@ -48,10 +49,9 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 
 ---
 ## 2. How do I access a Physna environment?<a name="how-do-i-access"></a>
-- Your Physna point of contact, typically an Account Executive or a Customer Success Team Member, will provide you a URL to access your firewalled, single-tenant, and encrypted Physna Environment. The URL will follow the structure __https://my-company.physna.com__ where "__my-company__" is the name you agreed to use during initial implementation discussions with Physna's Customer Success team. 
-- Ask your Business/Program/Project Leader or designated System Administrator what username you should use to log into your Physna environment. It will probably be your business email address.
-- Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346) for better results.
+- Use [Google's Chrome Browser](https://support.google.com/chrome/answer/95346).
 - The Login Page comes with links in case you forget your username or password.
+- Your username is your business email address.
 
 <kbd>![Login-Page](./images/login_page_ext_v2.jpg)</kbd>
 
@@ -59,14 +59,14 @@ Throughout this guide you will find numbered _**Workshop Tasks**_ that have been
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
 
 ![](./images/thin_line.jpg)
-### 2a. Workshop Task 1<a name="WorkShop_1"></a>
+### 2a. Workshop Lab 1<a name="WorkShop_1"></a>
 
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.
 3. Log into your Physna environment: https://nu.physna.com. If you encounter any issues, please ask for assistance.
-4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 1.  
-5. Congratulations: you have completed _Task 1_ of the Workshop.
+4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 1.  
+5. Congratulations: you have completed _Lab 1_ of the Workshop.
 
 _Workshop Tip: when asked to click on a URL on this page, it will often be better to right-click and open the link using a new Tab so as to not lose where you are in this document._
 
@@ -74,9 +74,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
    
 - This section covers the main page of Physna's UI and all of its features. 
-- Once familiarized with the features available, you will have a Workshop Task to reinforced what has been described.
+- Once familiarized with the features available, you will have a Workshop Lab to reinforced what has been described.
 - Depending on your user role and the set of features your company has subscribed to use, some of the menu items shown in this document may not be active or available to you.
-- Physna's UI is being actively updated to use React. Some of its features will still be based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Tasks. 
+- Physna's UI is being actively updated to use React. Some of its features will still be based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Labs. 
 
 ![](./images/thin_line.jpg)
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
@@ -123,11 +123,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 <kbd>![bigger_thumbnails_results_page](./images/bigger_thumbnails_results_page_v2.jpg)</kbd>
 
 ![](./images/thin_line.jpg)
-### 3b. Workshop Task 2<a name="WorkShop_2"></a>
+### 3b. Workshop Lab 2<a name="WorkShop_2"></a>
 
-In preparation for this Workshop Task, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
+In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
 
-1. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface. This first step is more of a suggestion as to how you can organize your screen for advancing efficiently through the different Workshop Tasks:
+1. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface. This first step is more of a suggestion as to how you can organize your screen for advancing efficiently through the different Workshop Labs:
  
    a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab.
    
@@ -187,12 +187,12 @@ Question #1: How are the percentage match numbers calculated?
 
 </details>  
       
-8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 2.
+8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 2.
   
-9. Congratulations: you have completed _Task 2_ of the Workshop.   
+9. Congratulations: you have completed _Lab 2_ of the Workshop.   
 
 ![](./images/thin_line.jpg)
-### 3c. Workshop Task 3: Model Ingestion<a name="Workshop_3"><a/>  
+### 3c. Workshop Lab 3: Model Ingestion<a name="Workshop_3"><a/>  
    
 - In this section you are going to create your own folder, ingest multiple file-formats into Physna, and validate that they have been loaded correctly.
    
@@ -218,7 +218,7 @@ Now that you have read the _Important Details_ above, please upload all of the 1
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
-3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trash-can > Red Delete Button), then start again on step 1 of this Workshop Task.
+3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trash-can > Red Delete Button), then start again on step 1 of this Workshop Lab.
    
 4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://nu.physna.com/app/search. You can then select your particular folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
    
@@ -231,9 +231,9 @@ Question #2: What are the possible file status values?
 
 </details>    
    
-5. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 3.  
+5. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 3.  
    
-6. Congratulations: you have completed _Task 3_ of the Workshop.
+6. Congratulations: you have completed _Lab 3_ of the Workshop.
 
 ---
 ## 4. Advanced 3D Geometric Search<a name="3D_Geometric_Search"><a/>
@@ -241,9 +241,9 @@ Question #2: What are the possible file status values?
 - In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide some examples of more complex comparisons that arise from dealing with different file formats.
 
 ![](./images/thin_line.jpg)
-### 4a. Workshop Task 4: Find Matches<a name="Workshop_4"><a/>     
+### 4a. Workshop Lab 4: Find Matches<a name="Workshop_4"><a/>     
    
-- In this section we will make use of the 17 files uploaded in the previous Work Task.
+- In this section we will make use of the 17 files uploaded in the previous Workshop Lab.
    
 1. Per the animation below, please click on the _**Physna**_ logo at the top left-hand corner of the Physna UI. This will take you to the main landing page. Then check the check-box next to the folder containing your files.
    
@@ -341,9 +341,14 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 </details>
 
-9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Task 4.  
+9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop lab 4.  
    
-6. Congratulations: you have completed _Task 4_ of the Workshop.
+10. Congratulations: you have completed _Lab 4_ of the Workshop.
+
+   
+![](./images/thin_line.jpg)
+### 4a. Workshop Lab 5: Advanced Comparisons<a name="Workshop_5"><a/>     
+   
    
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>

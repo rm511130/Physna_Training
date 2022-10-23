@@ -424,10 +424,10 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <kbd>![AEIOU and UBUNTU](./images/aeiou_ubuntu.gif)</kbd>    
       
- Question #10: What do we call the finding of 3 U's when intersecting AEIOU with UBUNTU?
+ Question #11: What do we call the finding of 3 U's when intersecting AEIOU with UBUNTU?
    
  <details>
-  <summary>Answer #10</summary>
+  <summary>Answer #11</summary>
   -- "Multi-Match". You also saw "Multi-Match" in action when we found 8 bolts in the turbocharger.
 </details>    
 

@@ -12,7 +12,7 @@ This guide describes the features available to an End User of the Physna Enterpr
 - find duplicate model
 - compare models visually to detect differences and similarities
 
-Throughout this guide you will find numbered _**Workshop Labs**_ that have been crafted to demonstrate Physna's capabilities.
+Throughout this guide you will find numbered _**Workshop Labs**_ nd _**Questions**_ crafted to demonstrate Physna's capabilities.
 
 ## Workshop Pre-requisites:
 

@@ -17,7 +17,7 @@ Throughout this guide you will find numbered _**Workshop Labs**_ that have been 
 ## Workshop Pre-requisites:
 
 - [Chrome Browser on a PC or a Mac](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop)
-- Read/Write access to this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). Please check that you do have read/write access to it.
+- Read/Write access to this [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing). Please check that you have read/write access to it.
 - 1 hour of total elapsed time to dedicate to the Workshop Steps.
 
 ---
@@ -75,14 +75,14 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
    
 - This section covers the main page of Physna's UI and all of its features. 
-- Once familiarized with the features available, you will have a Workshop Lab to reinforced what has been described.
-- Depending on your user role and the set of features your company has subscribed to use, some of the menu items shown in this document may not be active or available to you.
+- Once familiarized with the features available, you will have a Workshop Lab to reinforce what has been described.
+- Depending on your user role and the set of features your company has subscribed to use, menu items shown in this document may not be active or available to you.
 - Physna's UI is being actively updated to use React. Some of its features will still be based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Labs. 
 
 ![](./images/thin_line.jpg)
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
 
-- The main landing page, as seen below, is packed with features that are one click-away from delivering great insights into your 3D models.
+- The main landing page, as seen below, is packed with features that are one click away from delivering great insights into your 3D models.
 
 <kbd>![Unmarked_Main_Page](./images/Unmarked_Main_Page_v2.jpg)</kbd>
 
@@ -98,18 +98,18 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
     (ii) Part Match: finds models that contain your chosen model.
    
-    (iii) Scan Match: compares models volumetrically and is useful when dealing with a high-poly, scanned model. 
+    (iii) Scan Match: compares models volumetrically and is useful when dealing with a high poly, scanned model. 
    
 4. The radio buttons are used to switch the results between the 3 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
 5. The match tolerance between 0 and 100% is used to filter the search result set.
-6. The model chosen as the subject for the searches. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
+6. The model chosen as the subject a search query. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find matches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
-8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden and pinned to the left or the right of the displayed.
+8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden, and pinned to the left or the right of the displayed.
 
 <kbd>![ellipsis_v2](./images/ellipsis_v2.jpg)</kbd>
 
 9. The Comparison Cart is used to compare two models. The models listed in the compare section can be cleared out from the cart or each model can be individually removed from the cart using the "x" next to it. Comparisons will be explained in a subsequent section of this user guide.
-10. Download the contents of the page into using an Excel-friendly format.
+10. Download the contents of the page into an Excel-friendly format.
 11. Pagination control when the result sets can't be shown on a single page.
 12. The three icons, in order from left to right, represent functionality that will be explained in a subsequent section of this user guide.
   
@@ -136,14 +136,14 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.c
   
    c. You should now have at least 3 open Tabs on your browser window: 
    - _Tab 1_ is this page with the instructions you are following, 
-   - _Tab 2_ is for quick access to the annotated main-page of Physna's UI, and 
+   - _Tab 2_ is for quick access to the annotated main page of Physna's UI, and 
    - _Tab 3_ is for Physna's UI where you will run queries and look at results.
    
    d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as shown in the animation below. Note that this is not a mandatory step, it's just a suggestion:
    
 <kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
    
-2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7) you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7), you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    
@@ -155,9 +155,9 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.c
    
 <kbd>![matches_xx58949](./images/matches_xx58949_v2.gif)</kbd>
 
-5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes reffered to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically similar to each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a very common scenario among F1000 companies.
+5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes referred to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically similar to each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a common scenario among F1000 companies.
    
-6. Let's now look at the _**3D Geometric Part Match**_. It's often reffered to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
+6. Let's now look at the _**3D Geometric Part Match**_. It's often referred to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
    
    <kbd>![Part Match and Compare](./images/part_match_n_compare_xx58949_v2.gif)</kbd>
    
@@ -171,7 +171,7 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.c
    f. We clicked on the _**Compare**_ button on the bottom left-corner of the search page.  
    g. The resulting _**Overview**_ comparison page allowed us to see the two models displayed side-by-side.  
    h. The _**Overlay**_ comparison page allowed us to see the intersection between the _**Turbocharger**_ and the _**Bolt**_. Physna found 8 bolts.  
-   i. The _**X Ray**_ comparison page provided a visualization that is very useful when the difference is contained within the model.  
+   i. The _**X Ray**_ comparison page provided a visualization that is particularly useful when the difference is contained within the model.  
    
 7. Let's use the [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: the _**Scan Match**_. 
    Per the animation below, click on this [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) link to be taken to a folder containing models acquired using Photogrammetry. These are larger models made up of meshes with thousands of triangles. Select any one of the _**Find Matches**_ links next to the thumbnails of the various _**Impellers**_ and click on it. You should see that only the _**Scan Match**_, on the top left-hand corner of the screen, offers a non-zero result. That's because the models being compared are, from a geometrically precise perspective, very different from each other. The _**Scan Match**_ algorithm is tuned to look for shape and volumetric similarities, hence the reason for the results displayed on the screen.
@@ -215,7 +215,7 @@ Question #1: How are the percentage match numbers calculated?
      - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
      - Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.    
    
-Now that you have read the _Important Details_ above, please upload all of the 17 extracted files into the Physna Folder you created in the previous step. The animation below shows the whole process described above. In the animation we're loading the 17 files into the _**AB1**_ folder. 
+Now that you have read the _Important Details_ above, please upload all of the 17 extracted files into the Physna Folder you created in the previous step. The animation below shows the complete process described above. In the animation we're loading the 17 files into the _**AB1**_ folder. 
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
@@ -239,7 +239,7 @@ Question #2: What are the possible file status values?
 ---
 ## 4. Advanced 3D Geometric Search<a name="3D_Geometric_Search"><a/>
    
-- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide some examples of more complex comparisons that arise from dealing with different file formats.
+- In the previous chapters we learned how to create folders, upload files, and navigate around Physna's UI using a _**Turbocharger**_ assembly, _**bolts**_, and _**High Poly Scans**_. In this chapter, we will provide examples of more complex comparisons that arise from dealing with different file formats.
 
 ![](./images/thin_line.jpg)
 ### 4a. Workshop Lab 4: Find Matches<a name="Workshop_4"><a/>     
@@ -387,7 +387,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
    a. There are six check-boxes to the left of your screen. Keeping the six check-boxes on their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. 
    
-   b. You can see some [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.  
+   b. You can see [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.  
    
    c. Unselect all the check-boxes except for the first one. As expected, you should see _**3 Objects**_ by itself.  
    
@@ -482,7 +482,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
     
 - **Encryption by default, at rest and in transit**: we encrypt data in transit and at rest, ensuring that it can only be accessed by authorized roles and services with audited access to the encryption keys.
     
-- **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed high standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
+- **Continuous Availability**: horizontal scalability of microservices allied to an infrastructure designed to exacting standards of performance, resilience, availability, correctness, and security. Physna takes advantage of native, high availability Google features and services to maintain a highly available solution.
     
 - **Compliance**: policies and auditable procedures are key to the security of your users and your data.
 
@@ -494,10 +494,10 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
    2) Analysis of Personal Data: analysis of a list of all sensitive data that Physna stores and processes.
    3) Review Procedures: have a suitable privacy policy in place and review it regularly.
-   4) Access Rights: list what access rights should be granted and how changes should be handled.
+   4) Access Rights: list what access rights should be granted and how changes should be managed.
    5) Customer Consent: ensure Physna's customers consent to the processing of their data.
    6) Data Breaches: create and implement a procedure for handling data breaches.
-   7) Impact assessment: carry out a data protection impact assessment.
+   7) Impact assessment: conduct a data protection impact assessment.
    8) Data Protection Officers (DPO's): have an identified DPO.
 
     **b) _SOC 2 (System and Organization Controls)_:** Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
@@ -534,11 +534,11 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    3) CMMC level 3: Protect CUI.
    4) CMMC levels 4-5: Protect CUI and reduce the risk of advanced persistent threats
     
-    **c) _NIST 800-53_:** Physna is working to attain NIST 800-53 compliance - the requirements are designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs. The NIST 800-53 framework provides a number of different controls and guidance across multiple security and access control families defined under a baseline of impact: low, medium and high. The controls are then designated across 20 security and control families:
+    **c) _NIST 800-53_:** Physna is working to attain NIST 800-53 compliance - the requirements are designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs. The NIST 800-53 framework provides different controls and guidance across multiple security and access control families defined under a baseline of impact: low, medium, and high. The controls are then designated across 20 security and control families:
    1) AC (Access control): Account management and monitoring, enforcing the policy of least privilege principle, and separation of duties.
    2) AT (Awareness and training): Providing awareness and security training to employees, and elevated technical training for more privileged users.
    3) AU (Audit and accountability): Auditing records and content, retaining records, and providing associated analysis and reporting
-   4) CA (Assessment, authorization and monitoring): Penetration testing, and monitoring connections to public networks and external systems 
+   4) CA (Assessment, authorization, and monitoring): Penetration testing, and monitoring connections to public networks and external systems 
    5) CM (Configuration management): Implementing configuration change controls, and setting authorized software policies
    6) CP (Contingency planning): Establishing and testing business continuity strategies, as well as alternate processing and storage sides.
    7) IA (Identification and authentication): Managing credentials and setting up authentication policies and systems in place for users, devices, and services.

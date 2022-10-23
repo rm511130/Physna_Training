@@ -32,7 +32,8 @@ Throughout this guide you will find numbered _**Workshop Labs**_ that have been 
    3c) [Workshop Lab 3: Model Ingestion](#Workshop_3)  
 4. [3D Geometric Search](#3D_Geometric_Search)  
    4a) [Workshop Lab 4: Find Matches](#Workshop_4)  
-   4b) [Workshop Lab 4: Advanced Comparisons](#Workshop_5) 
+   4b) [Workshop Lab 5: Advanced Comparisons](#Workshop_5) 
+   4c) [Workshop Lab 6: The USD File Format](#Workshop_6) 
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)
 7. [Security](#security)
@@ -449,6 +450,12 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 10. Congratulations: you have completed _Lab 5_ of the Workshop.
 
+
+![](./images/thin_line.jpg)
+### 4c. Workshop Lab 6: The USD File Format<a name="Workshop_6"><a/>     
+   
+- Let's tackle the USD Format.
+   
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>
 

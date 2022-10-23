@@ -363,7 +363,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #9</summary>
-  -- The 3_Objects and 3_Object_Diff seem to have very similar objects placed in different positions and orientations.
+  -- The 3_Objects and 3_Object_Diff seem to have very similar models placed in different positions and orientations.
      The cubes seem very similar but there's an icosahedron in 3_Objects and a dodecahedron in 3_Objects_Diff.
 
 </details> 

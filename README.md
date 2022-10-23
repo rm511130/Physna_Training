@@ -44,7 +44,7 @@ Throughout this guide you will find numbered _**Workshop Labs**_ that have been 
 
 ---
 ## 1. What is Physna and what is it not?<a name="what-is-physna"></a>
-- Physna Enterprise is a cloud-based tool that employs patented 3D geometry based algorithms and AI/ML neural networks to search, match and compare 3D models.
+- Physna Enterprise is a cloud-based tool that employs patented 3D geometry-based algorithms and AI/ML neural networks to search, match and compare 3D models.
 - Physna is not a CAD, PDM or PLM tool. It works alongside these tools.
 - Physna is an API-driven PaaS (Platform as a Service). It exposes its functionality as [APIs](https://physna.github.io/public-api-guide/) that can be used to integrate Physna's functionality and enhance existing applications that support your company's business processes.
 
@@ -69,15 +69,15 @@ Throughout this guide you will find numbered _**Workshop Labs**_ that have been 
 4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 1.  
 5. Congratulations: you have completed _Lab 1_ of the Workshop.
 
-_Workshop Tip: when asked to click on a URL on this page, it will often be better to right-click and open the link using a new Tab so as to not lose where you are in this document._
+_Workshop Tip: when asked to click on a URL on this page, it will often be better to right-click and open the link using a new Tab to not lose where you are in this document._
 
 ---
 ## 3. Navigating the Physna User Interface<a name="navigating-the-ui"><a/>
    
-- This section covers the main page of Physna's UI and all of its features. 
+- This section covers the main page of Physna's UI and all its features. 
 - Once familiarized with the features available, you will have a Workshop Lab to reinforce what has been described.
 - Depending on your user role and the set of features your company has subscribed to use, menu items shown in this document may not be active or available to you.
-- Physna's UI is being actively updated to use React. Some of its features will still be based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Labs. 
+- Physna's UI is being actively updated to use React. Some features are still based on an older UI design that is being deprecated, but the functionality has been tested and will not affect the Workshop Labs. 
 
 ![](./images/thin_line.jpg)
 ### 3a. Main Landing Page<a name="Main_Landing_Page"></a>
@@ -102,7 +102,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
    
 4. The radio buttons are used to switch the results between the 3 main modalities of searches available to the end user. The numbers between brackets indicate the number of hits, within the match tolerance (default value: 80%) specified immediately below. 
 5. The match tolerance between 0 and 100% is used to filter the search result set.
-6. The model chosen as the subject a search query. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
+6. The model chosen as the subject of a search query. The model selection is controlled by clicking on the "Find Matches" URL next to any model displayed on the screen.
 7. The result set with Match % details, model names and the ability to change the chosen model to be used in a "Find matches" query. In this section you can also click on "Add to Compare Cart" to add any given pair of models for comparison. Comparisons will be explained in a subsequent section of this user guide.  
 8. Metadata fields associated horizontally to each other and to model in the same row. The titles of the columns can be dragged and moved, hidden, and pinned to the left or the right of the displayed.
 
@@ -155,17 +155,17 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.c
    
 <kbd>![matches_xx58949](./images/matches_xx58949_v2.gif)</kbd>
 
-5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes referred to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically similar to each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a common scenario among F1000 companies.
+5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes referred to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically like each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a common scenario among F1000 companies.
    
 6. Let's now look at the _**3D Geometric Part Match**_. It's often referred to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
    
    <kbd>![Part Match and Compare](./images/part_match_n_compare_xx58949_v2.gif)</kbd>
    
-   The 50 seconds animation shown above covered a lot of ground, so let's break it down for you:
+   The 50 second animation shown above covered a lot of ground, so let's break it down for you:
    
    a. We started on a _**Find Matches**_ query results page where model _**xx58949**_ was used as the search criteria.  
    b. We switched the _**Match Type**_ to _**Part Match**_ by clicking on the appropriate radio button at the top left-hand corner of the screen.  
-   c. The results page refreshed to show the thumbnails and details of two assemblies that use the _**xx58949**_ bolt.   
+   c. The results page is refreshed to show the thumbnails and details of two assemblies that use the _**xx58949**_ bolt.   
    d. The percentage match in both cases was 100%, indicating a perfect fit.  
    e. We used the _**Add to Compare Cart**_ links to add the _**Turbocharger**_ and the _**xx58949**_ bolt to the _**Compare Cart**_.  
    f. We clicked on the _**Compare**_ button on the bottom left-corner of the search page.  
@@ -215,13 +215,13 @@ Question #1: How are the percentage match numbers calculated?
      - Please _**maintain the default units as "mm"**_ and _**do not check the "deduplicate files" check box**_.
      - Please change the file filter selection to _**All Files (\*.\*)**_ before selecting the models for upload.    
    
-Now that you have read the _Important Details_ above, please upload all of the 17 extracted files into the Physna Folder you created in the previous step. The animation below shows the complete process described above. In the animation we're loading the 17 files into the _**AB1**_ folder. 
+Now that you have read the _Important Details_ above, please upload all the 17 extracted files into the Physna Folder you created in the previous step. The animation below shows the complete process described above. In the animation we're loading the 17 files into the _**AB1**_ folder. 
    
    <kbd>![Upload Files](./images/Upload_Files.gif)</kbd>
    
-3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trash-can > Red Delete Button), then start again on step 1 of this Workshop Lab.
+3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trashcan > Red Delete Button), then start again on step 1 of this Workshop Lab.
    
-4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://nu.physna.com/app/search. You can then select your particular folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
+4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://nu.physna.com/app/search. You can then select your folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
    
 Question #2: What are the possible file status values? 
    
@@ -246,7 +246,7 @@ Question #2: What are the possible file status values?
    
 - In this section we will make use of the 17 files uploaded in the previous Workshop Lab.
    
-1. Per the animation below, please click on the _**Physna**_ logo at the top left-hand corner of the Physna UI. This will take you to the main landing page. Then check the check-box next to the folder containing your files.
+1. Per the animation below, please click on the _**Physna**_ logo at the top left-hand corner of the Physna UI. This will take you to the main landing page. Then check the checkbox next to the folder containing your files.
    
    <kbd>![17vs16](./images/17vs16.gif)</kbd>
    
@@ -260,7 +260,7 @@ Question #3: You uploaded 17 files so why are there not 17 models?
 
 </details>   
    
-3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Take a look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully to see how Physna is aware of all the parts that compose the assembly. 
+3. Per the animation below, please click on the thumbnail of _**PZ2.SLDASM**_ to open it in the main viewer page. Look at the _**Model Tree**_. This is the only file we loaded that is a proper assembly. It came with six _**.SLDPRT**_ files and Physna understood their interdependence. Observe the animation below carefully to see how Physna is aware of all the parts that compose the assembly. 
    
    <kbd>![visual_nav](./images/visual_nav.gif)</kbd>
    
@@ -306,7 +306,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 </details>   
    
- 8. As shown in the animation below, please click on the _**Find Matches**_ link of the _**PZ2-01**_ model. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Select the _**Part Match**_ radio button under the _**Match Type**_ section of the page, and adjust the _**Match Tolerance**_ threshold down to _**40%**_.
+ 8. As shown in the animation below, please click on the _**Find Matches**_ link of the _**PZ2-01**_ model. In the _**Folders**_ section of the search results page, make sure you have checked the box to limit the results to just the data you uploaded. Select the _**Part Match**_ radio button under the _**Match Type**_ section of the page and adjust the _**Match Tolerance**_ threshold down to _**40%**_.
    
     <kbd>![PZ2-01 Part Match](./images/pz2_01_part_match.gif)</kbd>  
    
@@ -385,25 +385,25 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 3. Now switch to _**Overlay**_ mode by clicking on the word _**Overlay**_  and do the following steps, per the animation shown below:
 
-   a. There are six check-boxes to the left of your screen. Keeping the six check-boxes on their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. 
+   a. There are six checkboxes to the left of your screen. Keeping the six checkboxes in their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. 
    
-   b. You can see [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.  
+   b. You can see [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are identical or, at least, close to 100% matches.  
    
-   c. Unselect all the check-boxes except for the first one. As expected, you should see _**3 Objects**_ by itself.  
+   c. Unselect all the checkboxes except for the first one. As expected, you should see _**3 Objects**_ by itself.  
    
-   d. Switch to just having the 2nd check-box selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
+   d. Switch to just having the 2nd checkbox selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
    
-   e. The 3rd check-box _** Difference 3 Objects**_ checked by itself shows the icosahendron, that is, the object that _**3 Objects**_ contains and _**3 Objects Diff**_ does not.  
+   e. The 3rd checkbox _** Difference 3 Objects**_ checked by itself shows the icosahedron, that is, the object that _**3 Objects**_ contains, and _**3 Objects Diff**_ does not.  
    
-   f. The 4th check-box _** Difference 3 Objects Diff**_ checked by itself shows the dodecahendron, that is, the object that _**3 Objects Diff**_ contains and _**3 Objects**_ does not.  
+   f. The 4th checkbox _** Difference 3 Objects Diff**_ checked by itself shows the dodecahedron, that is, the object that _**3 Objects Diff**_ contains, and _**3 Objects**_ does not.  
    
-   g. The 5th check-box, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.  
+   g. The 5th checkbox, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.  
    
-   h. The 6th check-box, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.  
+   h. The 6th checkbox, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.  
    
-   i. Checking only the 1st and 5th check-boxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.  
+   i. Checking only the 1st and 5th checkboxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.  
    
-   j. Checking only the 2nd and 6th check-boxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
+   j. Checking only the 2nd and 6th checkboxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
  
    
  <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
@@ -413,15 +413,15 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #10</summary>
-  -- Yes, it confirmed our answer to question #9. The additional "noise" seen when the 3rd and 4th check-boxes were selected also indicated that the cubes were not 100% identical to each other across the two models: 3_Objects and 3_Objects_Diff. Note that Physna was able to compare the correct pair of cubes to each other even though their relative positions and orientations were completely different.
+  -- Yes, it confirmed our answer to question #9. The additional "noise" seen when the 3rd and 4th checkboxes were selected also indicated that the cubes were not 100% identical to each other across the two models: 3_Objects and 3_Objects_Diff. Note that Physna was able to compare the correct pair of cubes to each other even though their relative positions and orientations were completely different.
 </details>        
 
 4. The answer to Question #10 can be more clearly seen when you follow the steps below, per the animation that follows: 
 
    a. Using the search bar, type in _**AEIOU**_ and click "Enter/Return" on your keyboard.  
-   b. Click on _**Find Matches**_ next to the _**AEIOU**_ thumbnail. You should see an 82.34% match the the _**UBUNTU**_ model.  
+   b. Click on _**Find Matches**_ next to the _**AEIOU**_ thumbnail. You should see an 82.34% match the _**UBUNTU**_ model.  
    c. Clear the _**Compare Cart**_ and add both _**UBUNTU**_ and _**AEIOU**_ to the _**Compare Cart**_, then hit _**Compare**_.  
-   d. Now use the check-boxes, as you did before and as shown below, to see what _**AEIOU**_ and _**UBUNTU**_ share in common.  
+   d. Now use the checkboxes, as you did before and as shown below, to see what letters _**AEIOU**_ and _**UBUNTU**_ share.  
    
  <kbd>![AEIOU and UBUNTU](./images/aeiou_ubuntu.gif)</kbd>    
       
@@ -439,7 +439,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    c. You will need to lower the _**% Match Tolerance**_ to find _**Tesla Valve Not**_.  
    d. Clear the _**Compare Cart**_ and add both models: _**Tesla Valve**_ and _**Tesla Valve Not**_, then click on _**Compare**_.  
    e. Switch to _**X-RAY**_ mode.  
-   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ in order to separate the two models that have been auto-aligned by Physna.  
+   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ to separate the two models that have been auto-aligned by Physna.  
    g. You can clearly see that the models are not identical because of their internal 3D geometric differences.  
    h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.  
    
@@ -461,13 +461,13 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 - You can find the details on how to contact the support team at Physna from the main hamburger menu on the main page. Click on the three horizontal lines icon to open the menu and select "Support" last item in the list. This will open a page explaining how to get in touch.
 
-- Alternatively, you can sent an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with subject "Support".
+- Alternatively, you can send an e-mail to [info@physna.com](mailto:info@physna.com?subject=Physna%20Support) with the subject "Support".
 
 - If you have a critical issue that requires immediate attention, please contact your Physna Account Team.
 
 ## 6. Architecture <a name="architecture"><a/>    
     
-- Physna is a cloud-based platform installed as an isolated single tenant in order to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
+- Physna is a cloud-based platform installed as an isolated single tenant to guarantee complete control and isolation of your work and valuable data. The architecture diagram shown below represents all the key services used by Physna. 
     
 ![architecture](./images/architecture.jpg)
     
@@ -490,7 +490,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 - **Current State**:
 
-    **a) _General Data Protection Regulation (GDPR)_:** Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to european countries. The key characteristics of being GDPR compliant can be summarized as follows:
+    **a) _General Data Protection Regulation (GDPR)_:** Physna is [GDPR](https://gdpr-info.eu/) compliant and can therefore offer solutions to European countries. The key characteristics of being GDPR compliant can be summarized as follows:
    1) Awareness and Communication: ensure Physna employees understand GDPR and communicate with service and staff about why you are collecting the data.
    2) Analysis of Personal Data: analysis of a list of all sensitive data that Physna stores and processes.
    3) Review Procedures: have a suitable privacy policy in place and review it regularly.
@@ -500,7 +500,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    7) Impact assessment: conduct a data protection impact assessment.
    8) Data Protection Officers (DPO's): have an identified DPO.
 
-    **b) _SOC 2 (System and Organization Controls)_:** Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
+    **b) _SOC 2 (System and Organization Controls)_:** Physna is [SOC 2 Type 1](https://www.vanta.com/paid/soc2) compliant and is working through the process to attain SOC 2 Type 2 compliance. SOC 2 is the most sought-after security framework for SaaS companies because it demonstrates a company's ability to effectively safeguard the privacy and security of customer and client data. SOC 2 involves:
    1) Continuous Monitoring
    2) Reliable Alerts
    3) Secure Cloud Infrastructure Configuration
@@ -512,7 +512,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 - **Work in Process**:   
    
-    **a) _NIST 800-171_:** Physna is working towards being NIST SP800-171 or just 800-171 compliant. NIST 800-171 is a codification of the requirements that any non-Federal computer system must follow in order to store, process, or transmit Controlled Unclassified Information (CUI) or provide security protection for such systems. The exact requirements for NIST SP 800-171 revision 2 can be found at https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf. NIST SP 800-171 compliance is currently required by some Department of Defense contracts via DFARS clause 252.204-7012. The DoD Office of Sponsored Programs verifies and ensures that NIST 800-171 requirements are applicable. The key requirements fall into the following 14 categories.
+    **a) _NIST 800-171_:** Physna is working towards being NIST SP800-171 or just 800-171 compliant. NIST 800-171 is a codification of the requirements that any non-Federal computer system must follow to store, process, or transmit Controlled Unclassified Information (CUI) or provide security protection for such systems. The exact requirements for NIST SP 800-171 revision 2 can be found at https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf. NIST SP 800-171 compliance is currently required by some Department of Defense contracts via DFARS clause 252.204-7012. The DoD Office of Sponsored Programs verifies and ensures that NIST 800-171 requirements are applicable. The key requirements fall into the following 14 categories.
    1) Access Control    
    2) Awareness and Training    
    3) Audit and Accountability    
@@ -534,7 +534,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    3) CMMC level 3: Protect CUI.
    4) CMMC levels 4-5: Protect CUI and reduce the risk of advanced persistent threats
     
-    **c) _NIST 800-53_:** Physna is working to attain NIST 800-53 compliance - the requirements are designed to provide a foundation of guiding elements, strategies, systems, and controls, that can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs. The NIST 800-53 framework provides different controls and guidance across multiple security and access control families defined under a baseline of impact: low, medium, and high. The controls are then designated across 20 security and control families:
+    **c) _NIST 800-53_:** Physna is working to attain NIST 800-53 compliance - the requirements are designed to provide a foundation of guiding elements, strategies, systems, and controls, which can agnostically support any organization’s cybersecurity needs and priorities. By establishing a framework available to all, it fosters communication and allows organizations to speak using a shared language. NIST 800-53 does not specifically support or suggest specific tools, companies, or vendors (intentionally so); it’s designed to be used as new technologies, systems, environments, and organizational changes arise, shifting cybersecurity needs. The NIST 800-53 framework provides different controls and guidance across multiple security and access control families defined under a baseline of impact: low, medium, and high. The controls are then designated across 20 security and control families:
    1) AC (Access control): Account management and monitoring, enforcing the policy of least privilege principle, and separation of duties.
    2) AT (Awareness and training): Providing awareness and security training to employees, and elevated technical training for more privileged users.
    3) AU (Audit and accountability): Auditing records and content, retaining records, and providing associated analysis and reporting
@@ -543,10 +543,10 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    6) CP (Contingency planning): Establishing and testing business continuity strategies, as well as alternate processing and storage sides.
    7) IA (Identification and authentication): Managing credentials and setting up authentication policies and systems in place for users, devices, and services.
    8) IP (Individual participation): Obtaining consent and authorizing privacy policies and practices.
-   9) IR (Incident response): Setting up incident response training and setting up associated monitoring and reporting systems.
+   9) IR (Incident response): Setting up incident response training, setting up associated monitoring, and reporting systems.
    10) MA (Maintenance): Having an ongoing system, personnel, and tool maintenance.
    11) MP (Media protection): Securing and protecting media access, use, storage, and transportation.
-   12) PA (Privacy authorization): Setting policies for collecting, using, and sharing personally identifiable information(PII)
+   12) PA (Privacy authorization): Setting policies for collecting, using, and sharing personally identifiable information (PII)
    13) PE (Physical and environmental protection): Ensuring access to emergency power, securing physical access, and protecting against physical risk and damage.
    14) PM (Program management): Having defined strategies for risk management, insider threats, and scaling architecture.
    15) PL (Planning): Having strategies in place for comprehensive security architecture (such as defense in depth and third-party vendor security)
@@ -558,11 +558,11 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
   
 - **Roadmap Items**:   
    
-    **a) _FedRAMP (Federal Risk and Authorization Management Program)_:** Physna's certification and compliance roadmap will ultimately get to FedRAMP Levels 1 and 2. In order to attain FedRAMP compliance Physna will be working through the following steps:
+    **a) _FedRAMP (Federal Risk and Authorization Management Program)_:** Physna's certification and compliance roadmap will get to FedRAMP Levels 1 and 2. To attain FedRAMP compliance Physna will be working through the following steps:
     1) Gap analysis to understand how the current “as-is” environment aligns to the FedRAMP security requirements.
     2) Confirm executive leadership buy-in and the support of all stakeholders familiar with SOC, ISO, CMMC, and other standards.
     3) Find an Agency partner that will issue an “Authorization to Operate” (ATO). The ATO is the official management decision given by a senior Federal official to authorize operation of an information system and to explicitly accept the risk to agency operations. The natural Agency partner to work with for a FedRAMP authorization is one that is using your product or is committed to using your product.
-    4) Define Physna's boundary: an authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
+    4) Define Physna's boundary: An authorization boundary describes a cloud system’s internal components and connections to external services and systems and accounts for the flow of all federal information and metadata through the system. It illustrates a CSP’s (Cloud Service Provider) scope of control over the system in addition to any system components or services that are leveraged from external services or controlled by the customer. As a core component of any FedRAMP System Security Plan (SSP), it is imperative that CSPs understand how to accurately describe and illustrate their cloud system’s authorization boundary. 
     5) Approach FedRAMP as a continuous program: the initial authorization represents a major milestone, but only represents a system’s risk posture at a single point in time. Security applies throughout the lifecycle of a system; cloud services must be continuously monitored and kept up to date to ensure the appropriate risk posture is maintained.
 
 ### Cookies <a name="cookies"><a/>
@@ -579,7 +579,7 @@ When accessing Physna for the first time, you will be asked to accept cookies pe
 
 - **Author:** an Author can upload, edit, and delete Files. They can also add or remove Folders and Project.
     
-- **Administrator:** an Administrator can add, remove, and change Users; they can change ownership of Files, Folders, and Projects, change settings, as well as perform any functions that Authors and Viewers are allowed to perform.
+- **Administrator:** An Administrator can add, remove, and change Users; they can change ownership of Files, Folders, and Projects, change settings, as well as perform any functions that Authors and Viewers are allowed to perform.
     
 - **SA (Super Administrator)**: one or two Super Administrators must be identified per Physna environment. The SA is the only role allowed to change certain settings and parameters that affect the overall behavior of the Physna environment. For example: number of processor threads or background execution of batch functions. The role was necessary when Physna offered an on-site installation of its software. The role will soon be deprecated because Physna no longer supports on-site installations of its enterprise solution.
 

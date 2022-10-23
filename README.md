@@ -347,7 +347,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
    
 ![](./images/thin_line.jpg)
-### 4a. Workshop Lab 5: Advanced Comparisons<a name="Workshop_5"><a/>     
+### 4b. Workshop Lab 5: Advanced Comparisons<a name="Workshop_5"><a/>     
    
 - Let's take a closer look at the Comparison Tool: Overview, Overlay and X-Ray.
    
@@ -362,8 +362,8 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 2. Let's get Physna to show us the differences and similarities between the two models. Per the animation shown below:
    
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
-   b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart using their respective _**Add to Compare Cart**_ links, and then click on _**Compare**_.  
-   c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked, move the models around to see if you can detect the differences.  
+   b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick the _**3 Objects**_ first, then the **_3 Objects Diff_** as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
+   c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked or unchecked, depending on the models' relative positions, move the models around to see if you can detect the differences.  
    
       _Tip:  You should already be comfortable using the left and right buttons as well as the scroll wheel on your mouse when manipulating models on the screen. Try placing your mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how you can manipulate the model_  
 
@@ -379,10 +379,60 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 </details> 
 
    
-   e. Now switch to _**Overlay**_ mode. 
+3. Now switch to _**Overlay**_ mode by clicking on the word _**Overlay**_  and do the following steps, per the animation shown below:
+
+   a. There are six check-boxes to the left of your screen. Keeping the six check-boxes on their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. You can see some [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.
+   b. Unselect all the check-boxes except for the first one. As expected, you should see _**3 Objects**_ by itself.
+   c. Switch to just having the 2nd check-box selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.
+   d. The 3rd check-box (_** Difference 3 Objects**_) checked by itself shows the icosahendron, that is, the object that _**3 Objects**_ contains and _**3 Objects Diff**_ does not.
+   e. The 4th check-box (_** Difference 3 Objects Diff**_) checked by itself shows the dodecahendron, that is, the object that _**3 Objects Diff**_ contains and _**3 Objects**_ does not.
+   f. The 5th check-box, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.
+   g. The 6th check-box, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.
+   h. Checking only the 1st and 5th check-boxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.
+   i. Checking only the 2nd and 6th check-boxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.
    
+       <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
+       
+ Question #10: Did the _**Overlay**_ mode of comparison help confirm the similarities and differences between the models?
+   
+ <details>
+  <summary>Answer #10</summary>
+  -- Yes, it confirmed our answer to question #9. The additional "noise" seen when the 3rd and 4th check-boxes were selected also indicated that the cubes were not 100% identical to each other across the two models: 3_Objects and 3_Objects_Diff. Note that Physna was able to compare the correct pair of cubes to each other even though their relative positions and orientations were completely different.
+</details>        
+
+4. The answer to Question #10 can be more clearly seen when you follow the steps below, per the animation that follows: 
+
+   a. Using the search bar, type in _**AEIOU**_ and click "Enter/Return" on your keyboard.
+   b. Click on _**Find Matches**_ next to the _**AEIOU**_ thumbnail. You should see an 82.34% match the the _**UBUNTU**_ model.
+   c. Clear the _**Compare Cart**_ and add both _**UBUNTU**_ and _**AEIOU**_ to the _**Compare Cart**_, then hit _**Compare**_.
+   d. Now use the check-boxes, as you did before and as shown below, to see what _**AEIOU**_ and _**UBUNTU**_ share in common.
+   
+       <kbd>![AEIOU and UBUNTU](./images/aeiou_ubuntu.gif)</kbd>    
       
+ Question #10: What do we call the finding of 3 U's when intersecting AEIOU with UBUNTU?
    
+ <details>
+  <summary>Answer #10</summary>
+  -- "Multi-Match". You also saw "Multi-Match" in action when we found 8 bolts in the turbocharger.
+</details>    
+
+5. Let's move on to the _**X-Ray**_ mode of comparison. Per the animation shown below, please:
+
+   a. Using the search bar, type in _**TESLA**_ and click "Enter/Return" on your keyboard.
+   b. Click on _**Find Matches**_ next to the _**Tesla Valve**_ thumbnail. 
+   c. You will need to lower the _**% Match Tolerance**_ to find _**Tesla Valve Not**_.
+   d. Clear the _**Compare Cart**_ and add both models: _**Tesla Valve**_ and _**Tesla Valve Not_**, then click on _**Compare**_.
+   e. Switch to _**X-RAY**_ mode. 
+   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ in order to separate the two models that have been auto-aligned by Physna.
+   g. You can clearly see that the models are not identical because of their internal 3D geometric differences.
+   h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.
+   
+          <kbd>![X-Ray](./images/x_ray.gif)</kbd>    
+   
+9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 5.  
+   
+10. Congratulations: you have completed _Lab 5_ of the Workshop.
+
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>
 

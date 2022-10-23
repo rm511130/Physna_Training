@@ -353,14 +353,30 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 1. As shown below, click on the following link [Advanced Comparisons Folder](https://nu.physna.com/app/search?folders=15).
    
+   a. Click on the _**Find Matches**_ link next to the _**3 Objects**_ model.
+
+    <kbd>![Compare 3 Objects](./images/compare_3_objects.gif)</kbd>  
+   
+   b. Notice that _**3 Objects**_ is an 88.62% geometric match to _**3 Objects Diff**_
+  
+ Question #9: What did the Comparison in _**Overview**_ mode allow you to see?
+   
+ <details>
+  <summary>Answer #9</summary>
+  -- The 3_Objects and 3_Object_Diff seem to have very similar objects placed in different positions and orientations.
+     The cubes seem very similar but there's an icosahedron in 3_Objects and a dodecahedron in 3_Objects_Diff.
+
+</details> 
+   
+2. Let's get Physna to show us the differences and similarities between the two models. Per the animation shown below:
+   
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
-   b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart and then click on _**Compare**_.  
-   c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked, move the models around to see if you can detect the differences.
-      _Tip:  You should already be comfortable using the left and right buttons as well as the scroll wheel on your mouse when manipulating models on the screen_  
-      _      Try placing your mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how you can manipulate the model_  
+   b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart using their respective _**Add to Compare Cart**_ links, and then click on _**Compare**_.  
+   c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked, move the models around to see if you can detect the differences.  
+   
+      _Tip:  You should already be comfortable using the left and right buttons as well as the scroll wheel on your mouse when manipulating models on the screen. Try placing your mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how you can manipulate the model_  
 
-     <kbd>![Compare 3 Objects Overview](./images/compare_3_objects_overview.gif)</kbd>  
-
+     <kbd>![Compare 3 Objects Overview](./images/compare_3_objects_overview_v2.gif)</kbd>  
 
    e. Now switch to _**Overlay**_ mode. 
    

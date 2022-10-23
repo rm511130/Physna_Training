@@ -442,7 +442,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    g. You can clearly see that the models are not identical because of their internal 3D geometric differences.  
    h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.  
    
-          <kbd>![X-Ray](./images/x_ray.gif)</kbd>    
+ <kbd>![X-Ray](./images/x_ray.gif)</kbd>    
    
    
 9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 5.  

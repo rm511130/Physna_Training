@@ -349,16 +349,20 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 ![](./images/thin_line.jpg)
 ### 4a. Workshop Lab 5: Advanced Comparisons<a name="Workshop_5"><a/>     
    
-- Let's take a closer look at the Compare Cart and the Comparison Tool: Overview, Overlay and X-Ray.
+- Let's take a closer look at the Comparison Tool: Overview, Overlay and X-Ray.
    
-1. Click on the following link [Advanced Comparisons Folder](https://nu.physna.com/app/search?folders=15).
+1. As shown below, click on the following link [Advanced Comparisons Folder](https://nu.physna.com/app/search?folders=15).
    
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
    b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart and then click on _**Compare**_.  
    c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked, move the models around to see if you can detect the differences.
       _Tip:  You should already be comfortable using the left and right buttons as well as the scroll wheel on your mouse when manipulating models on the screen_  
-      _      Place you mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how it allows you to manipulate the model_  
-   d. Now switch to _**Overlay**_ mode. 
+      _      Try placing your mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how you can manipulate the model_  
+
+     <kbd>![Compare 3 Objects Overview](./images/compare_3_objects_overview.gif)</kbd>  
+
+
+   e. Now switch to _**Overlay**_ mode. 
    
       
    

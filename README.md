@@ -32,7 +32,7 @@ Throughout this guide you will find numbered _**Workshop Labs**_ that have been 
    3c) [Workshop Lab 3: Model Ingestion](#Workshop_3)  
 4. [3D Geometric Search](#3D_Geometric_Search)  
    4a) [Workshop Lab 4: Find Matches](#Workshop_4)  
-   4b) [Workshop Lab 5: Advanced Comparisons](#Workshop_5) 
+   4b) [Workshop Lab 5: Advanced Comparisons](#Workshop_5)  
    4c) [Workshop Lab 6: The USD File Format](#Workshop_6) 
 5. [Help and Support](#help_and_support)
 6. [Architecture](#architecture)

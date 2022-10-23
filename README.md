@@ -373,7 +373,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #9</summary>
-  -- The 3_Objects and 3_Object_Diff seem to have very similar models placed in different positions and orientations.
+  -- The 3_Objects and 3_Objects_Diff seem to have very similar models placed in different positions and orientations.
      The cubes seem very similar but there's an icosahedron in 3_Objects and a dodecahedron in 3_Objects_Diff.
 
 </details> 
@@ -381,17 +381,17 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 3. Now switch to _**Overlay**_ mode by clicking on the word _**Overlay**_  and do the following steps, per the animation shown below:
 
-   a. There are six check-boxes to the left of your screen. Keeping the six check-boxes on their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. You can see some [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.
-   b. Unselect all the check-boxes except for the first one. As expected, you should see _**3 Objects**_ by itself.
-   c. Switch to just having the 2nd check-box selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.
-   d. The 3rd check-box (_** Difference 3 Objects**_) checked by itself shows the icosahendron, that is, the object that _**3 Objects**_ contains and _**3 Objects Diff**_ does not.
-   e. The 4th check-box (_** Difference 3 Objects Diff**_) checked by itself shows the dodecahendron, that is, the object that _**3 Objects Diff**_ contains and _**3 Objects**_ does not.
-   f. The 5th check-box, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.
-   g. The 6th check-box, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.
-   h. Checking only the 1st and 5th check-boxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.
-   i. Checking only the 2nd and 6th check-boxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.
+   a. There are six check-boxes to the left of your screen. Keeping the six check-boxes on their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. You can see some [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are probably identical or, at least, very close to 100% matches.  
+   b. Unselect all the check-boxes except for the first one. As expected, you should see _**3 Objects**_ by itself.  
+   c. Switch to just having the 2nd check-box selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
+   d. The 3rd check-box (_** Difference 3 Objects**_) checked by itself shows the icosahendron, that is, the object that _**3 Objects**_ contains and _**3 Objects Diff**_ does not.  
+   e. The 4th check-box (_** Difference 3 Objects Diff**_) checked by itself shows the dodecahendron, that is, the object that _**3 Objects Diff**_ contains and _**3 Objects**_ does not.  
+   f. The 5th check-box, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.  
+   g. The 6th check-box, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.  
+   h. Checking only the 1st and 5th check-boxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.  
+   i. Checking only the 2nd and 6th check-boxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
    
-       <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
+ <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
        
  Question #10: Did the _**Overlay**_ mode of comparison help confirm the similarities and differences between the models?
    

@@ -362,11 +362,14 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 2. Let's get Physna to show us the differences and similarities between the two models. Per the animation shown below:
    
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
+   
    b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick the _**3 Objects**_ first, then the **_3 Objects Diff_** as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
+   
    c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked or unchecked, depending on the models' relative positions, move the models around to see if you can detect the differences.  
    
       _Tip:  You should already be comfortable using the left and right buttons as well as the scroll wheel on your mouse when manipulating models on the screen. Try placing your mouse pointer over the solid cube, then click and hold the middle button on your mouse to see how you can manipulate the model_  
 
+   
      <kbd>![Compare 3 Objects Overview](./images/compare_3_objects_overview_v2.gif)</kbd>  
 
  Question #9: What did the Comparison in _**Overview**_ mode allow you to see?
@@ -400,9 +403,11 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    i. Checking only the 1st and 5th check-boxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.  
    
    j. Checking only the 2nd and 6th check-boxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
+ 
    
  <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
-       
+
+   
  Question #10: Did the _**Overlay**_ mode of comparison help confirm the similarities and differences between the models?
    
  <details>
@@ -412,12 +417,12 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 4. The answer to Question #10 can be more clearly seen when you follow the steps below, per the animation that follows: 
 
-   a. Using the search bar, type in _**AEIOU**_ and click "Enter/Return" on your keyboard.
-   b. Click on _**Find Matches**_ next to the _**AEIOU**_ thumbnail. You should see an 82.34% match the the _**UBUNTU**_ model.
-   c. Clear the _**Compare Cart**_ and add both _**UBUNTU**_ and _**AEIOU**_ to the _**Compare Cart**_, then hit _**Compare**_.
-   d. Now use the check-boxes, as you did before and as shown below, to see what _**AEIOU**_ and _**UBUNTU**_ share in common.
+   a. Using the search bar, type in _**AEIOU**_ and click "Enter/Return" on your keyboard.  
+   b. Click on _**Find Matches**_ next to the _**AEIOU**_ thumbnail. You should see an 82.34% match the the _**UBUNTU**_ model.  
+   c. Clear the _**Compare Cart**_ and add both _**UBUNTU**_ and _**AEIOU**_ to the _**Compare Cart**_, then hit _**Compare**_.  
+   d. Now use the check-boxes, as you did before and as shown below, to see what _**AEIOU**_ and _**UBUNTU**_ share in common.  
    
-       <kbd>![AEIOU and UBUNTU](./images/aeiou_ubuntu.gif)</kbd>    
+ <kbd>![AEIOU and UBUNTU](./images/aeiou_ubuntu.gif)</kbd>    
       
  Question #10: What do we call the finding of 3 U's when intersecting AEIOU with UBUNTU?
    
@@ -428,16 +433,17 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 5. Let's move on to the _**X-Ray**_ mode of comparison. Per the animation shown below, please:
 
-   a. Using the search bar, type in _**TESLA**_ and click "Enter/Return" on your keyboard.
-   b. Click on _**Find Matches**_ next to the _**Tesla Valve**_ thumbnail. 
-   c. You will need to lower the _**% Match Tolerance**_ to find _**Tesla Valve Not**_.
-   d. Clear the _**Compare Cart**_ and add both models: _**Tesla Valve**_ and _**Tesla Valve Not_**, then click on _**Compare**_.
-   e. Switch to _**X-RAY**_ mode. 
-   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ in order to separate the two models that have been auto-aligned by Physna.
-   g. You can clearly see that the models are not identical because of their internal 3D geometric differences.
-   h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.
+   a. Using the search bar, type in _**TESLA**_ and click "Enter/Return" on your keyboard.  
+   b. Click on _**Find Matches**_ next to the _**Tesla Valve**_ thumbnail.  
+   c. You will need to lower the _**% Match Tolerance**_ to find _**Tesla Valve Not**_.  
+   d. Clear the _**Compare Cart**_ and add both models: _**Tesla Valve**_ and _**Tesla Valve Not_**, then click on _**Compare**_.  
+   e. Switch to _**X-RAY**_ mode.  
+   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ in order to separate the two models that have been auto-aligned by Physna.  
+   g. You can clearly see that the models are not identical because of their internal 3D geometric differences.  
+   h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.  
    
           <kbd>![X-Ray](./images/x_ray.gif)</kbd>    
+   
    
 9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 5.  
    

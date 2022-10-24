@@ -395,15 +395,15 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
    e. The 3rd checkbox _**Difference 3 Objects**_ checked by itself shows the icosahedron, that is, the object that _**3 Objects**_ contains, and _**3 Objects Diff**_ does not.  
    
-   f. The 4th checkbox _** Difference 3 Objects Diff**_ checked by itself shows the dodecahedron, that is, the object that _**3 Objects Diff**_ contains, and _**3 Objects**_ does not.  
+   f. The 4th checkbox _**Difference 3 Objects Diff**_ checked by itself shows the dodecahedron, that is, the object that _**3 Objects Diff**_ contains, and _**3 Objects**_ does not.  
    
    g. The 5th checkbox, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.  
    
    h. The 6th checkbox, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.  
    
-   i. Checking only the 1st and 5th checkboxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with **_3 Object Diff**_.  
+   i. Checking only the 1st and 5th checkboxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with _**3 Object Diff**_.  
    
-   j. Checking only the 2nd and 6th checkboxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with **_3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
+   j. Checking only the 2nd and 6th checkboxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with _**3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
  
    
  <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   

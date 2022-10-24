@@ -393,7 +393,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
    d. Switch to just having the 2nd checkbox selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
    
-   e. The 3rd checkbox _** Difference 3 Objects**_ checked by itself shows the icosahedron, that is, the object that _**3 Objects**_ contains, and _**3 Objects Diff**_ does not.  
+   e. The 3rd checkbox _**Difference 3 Objects**_ checked by itself shows the icosahedron, that is, the object that _**3 Objects**_ contains, and _**3 Objects Diff**_ does not.  
    
    f. The 4th checkbox _** Difference 3 Objects Diff**_ checked by itself shows the dodecahedron, that is, the object that _**3 Objects Diff**_ contains, and _**3 Objects**_ does not.  
    

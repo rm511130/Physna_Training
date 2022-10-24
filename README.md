@@ -439,7 +439,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    c. You will need to lower the _**% Match Tolerance**_ to find _**Tesla Valve Not**_.  
    d. Clear the _**Compare Cart**_ and add both models: _**Tesla Valve**_ and _**Tesla Valve Not**_, then click on _**Compare**_.  
    e. Switch to _**X-RAY**_ mode.  
-   f. Once the models have been rendered on your screen, as shown in the animation below, change the value of the _**Y Translation**_ to _**36**_ to separate the two models that have been auto-aligned by Physna.  
+   f. Once the models have been rendered on your screen, as shown in the animation below, you _may_ need to change the value of the _**Y Translation**_ to separate the two models that have been auto-aligned by Physna.  
    g. You can clearly see that the models are not identical because of their internal 3D geometric differences.  
    h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview_** and _**Overlay**_ mode.  
    

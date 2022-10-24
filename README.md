@@ -128,7 +128,9 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
 
-1. Please click on the following [Turbo Folder](https://nu.physna.com/app/search?folders=7) link. You should see the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+1. Please click on the following [Turbo Folder](https://nu.physna.com/app/search?folders=7) link. You should see the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. 
+   
+Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    

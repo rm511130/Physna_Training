@@ -128,36 +128,21 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://nu.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
 
-1. You will get a chance to create folders and upload files in a few moments, but first let's experiment with how to navigate the Physna User Interface. This first step is more of a suggestion as to how you can organize your screen for advancing efficiently through the different Workshop Labs:
- 
-   a. right-click on the [annotated main page diagram shown above](#Commented_Main_Page) link and open it in a new tab.
-   
-   b. right-click on the [Turbo Folder](https://nu.physna.com/app/search?folders=7) link and open it in yet another new browser tab.   
-  
-   c. You should now have at least 3 open Tabs on your browser window: 
-   - _Tab 1_ is this page with the instructions you are following, 
-   - _Tab 2_ is for quick access to the annotated main page of Physna's UI, and 
-   - _Tab 3_ is for Physna's UI where you will run queries and look at results.
-   
-   d. If you happen to be using multiple LCD monitors, go ahead and separate these three tabs so you can see them all at the same time. If you only have one LCD monitor, you can organize your tabs as shown in the animation below. Note that this is not a mandatory step, it's just a suggestion:
-   
-<kbd>![Tab1Tab2Tab3](./images/Tab1Tab2Tab3.gif)</kbd>
-   
-2. By clicking on [Turbo Folder](https://nu.physna.com/app/search?folders=7), you were brought to the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+1. Please click on the following [Turbo Folder](https://nu.physna.com/app/search?folders=7) link. You should see the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    
-3. Now look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
+2. Now look for the **_thumbnail_** of model **_xx58949_** and click on it to see the model viewer page of this specific model, as shown in the animation below. The animation shows additional features of the model viewer page such as metadata, different visualization modes, simple commands for moving the model in all directions and for taking measurements or obtaining sectioned views.
    
 <kbd>![xx58949_viewer_page](./images/xx58949_viewer_page_v2.gif)</kbd>
 
-4. The animation shown above ends with a click on the _**Find Matches**_ link at the top left-hand corner of the page, so let's click on _**Find Matches**_ to see what other models are geometric matches to model _**xx58949**_. 
+3. The animation shown above ends with a click on the _**Find Matches**_ link at the top left-hand corner of the page, so let's click on _**Find Matches**_ to see what other models are geometric matches to model _**xx58949**_. 
    
 <kbd>![matches_xx58949](./images/matches_xx58949_v2.gif)</kbd>
 
-5. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes referred to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically like each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a common scenario among F1000 companies.
+4. Per the animation shown above, there are 3 types of matches offered to you. The first one is a _**3D Geometric Match**_ which is sometimes referred to as _**Match**_ or _**Part-to-Part Match**_. It helps you find models that are geometrically like each other. Observe the animation above to see where Physna places the threshold control (box #5), where the match percentages are displayed (box #7), and where the metadata is displayed (boxes #8). In this example model _**58949xx**_ matches 100% of the geometry of model _**xx58949**_. The former is out of stock and the latter is in stock, so you have found a suitable substitute for an out-of-stock part. Note that the two models come from different suppliers and have different part names. This is a common scenario among F1000 companies.
    
-6. Let's now look at the _**3D Geometric Part Match**_. It's often referred to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
+5. Let's now look at the _**3D Geometric Part Match**_. It's often referred to as _**Part-in-Part Match**_. Observe the animation shown below and try to repeat the same steps using your computer.
    
    <kbd>![Part Match and Compare](./images/part_match_n_compare_xx58949_v2.gif)</kbd>
    
@@ -173,7 +158,7 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://nu.physna.c
    h. The _**Overlay**_ comparison page allowed us to see the intersection between the _**Turbocharger**_ and the _**Bolt**_. Physna found 8 bolts.  
    i. The _**X Ray**_ comparison page provided a visualization that is particularly useful when the difference is contained within the model.  
    
-7. Let's use the [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: the _**Scan Match**_. 
+6. Let's use the [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: the _**Scan Match**_. 
    Per the animation below, click on this [_**High Ply Scans**_](https://nu.physna.com/app/search?folders=13) link to be taken to a folder containing models acquired using Photogrammetry. These are larger models made up of meshes with thousands of triangles. Select any one of the _**Find Matches**_ links next to the thumbnails of the various _**Impellers**_ and click on it. You should see that only the _**Scan Match**_, on the top left-hand corner of the screen, offers a non-zero result. That's because the models being compared are, from a geometrically precise perspective, very different from each other. The _**Scan Match**_ algorithm is tuned to look for shape and volumetric similarities, hence the reason for the results displayed on the screen.
    
    <kbd>![Scan Match](./images/scan_match_v2.gif)</kbd>   
@@ -188,9 +173,9 @@ Question #1: How are the percentage match numbers calculated?
 
 </details>  
       
-8. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 2.
+7. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 2.
   
-9. Congratulations: you have completed _Lab 2_ of the Workshop.   
+8. Congratulations: you have completed _Lab 2_ of the Workshop.   
 
 ![](./images/thin_line.jpg)
 ### 3c. Workshop Lab 3: Model Ingestion<a name="Workshop_3"><a/>  

@@ -441,7 +441,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    e. Switch to _**X-RAY**_ mode.  
    f. Once the models have been rendered on your screen, as shown in the animation below, you _may_ need to change the value of the _**Y Translation**_ to separate the two models that have been auto-aligned by Physna.  
    g. You can clearly see that the models are not identical because of their internal 3D geometric differences.  
-   h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview**_ and _**Overlay**_ mode.  
+   h. This example shows how and why the _**X-Ray**_ mode complements the _**Overview**_ and _**Overlay**_ modes.  
    
  <kbd>![X-Ray](./images/x_ray.gif)</kbd>    
    

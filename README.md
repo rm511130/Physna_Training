@@ -441,11 +441,16 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 ![](./images/thin_line.jpg)
 ### 4c. Workshop Lab 6: The USD File Format<a name="Workshop_6"><a/>     
    
-- You can convert USD files into STL and GLB formats before uploading them into Physna.  
+- You can convert USD files into STL and GLB formats in preparation for ingestion into Physna.  
   The processes for file conversion are documented with examples at:
    
-  a. https://github.com/rm511130/usd2stl
-  b. https://github.com/rm511130/usd2glb
+  a. https://github.com/rm511130/usd2stl  
+  b. https://github.com/rm511130/usd2glb  
+  
+1. The following animation shows the complete process for converting a USD file into GLB format.
+
+
+  
 
    
 ---------------------------   

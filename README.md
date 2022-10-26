@@ -447,38 +447,16 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
   a. [https://github.com/rm511130/usd2glb](https://github.com/rm511130/usd2glb/blob/main/README.md) (with color)   
   b. [https://github.com/rm511130/usd2stl](https://github.com/rm511130/usd2stl/blob/main/README.md) (no color)   
    
-![usd2glb](./images/usd2glb.gif)
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-1. The following animation shows the complete process for converting a USD file into GLB format.
 
+  1. The following animation shows the complete process for converting a USD file into GLB format.
 
+![usd2glb](./images/usd2glb_v2.gif)
   
-
+  2. Let's take a look at a few other examples of USD encoded files that were converted to GLB and uploaded into Physna.
+   
+     a. Please click on the following link: [Pixar Kitchen](https://nu.physna.com/app/models/978df6d0-2571-477d-ba0f-db87ddaed640)  
+     b. Now click on _**Find Matches**_ at the top left-hand corner and then click on the _**Part Match**_ radio button.  
+     c. Clear the _**Compare Cart**_ if it's not empty and add 
    
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>

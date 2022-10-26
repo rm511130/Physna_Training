@@ -444,9 +444,36 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 - You can convert USD files into STL and GLB formats in preparation for ingestion into Physna.  
   The processes for file conversion are documented with examples at:
    
-  a. https://github.com/rm511130/usd2stl  
-  b. https://github.com/rm511130/usd2glb  
+  a. https://github.com/rm511130/usd2stl (no color)
+  b. https://github.com/rm511130/usd2glb (with color) 
+   
   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 1. The following animation shows the complete process for converting a USD file into GLB format.
 
 

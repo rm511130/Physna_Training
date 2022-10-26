@@ -444,11 +444,11 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 - You can convert USD files into STL and GLB formats in preparation for ingestion into Physna.  
   The processes for file conversion are documented with examples at:
    
-  a. https://github.com/rm511130/usd2stl (no color)
-  b. https://github.com/rm511130/usd2glb (with color) 
+  a. [https://github.com/rm511130/usd2glb](https://github.com/rm511130/usd2glb/blob/main/README.md) (with color)   
+  b. [https://github.com/rm511130/usd2stl](https://github.com/rm511130/usd2stl/blob/main/README.md) (no color)   
    
-  
-  
+![usd2glb](./images/usd2glb.gif)
+   
    
    
    

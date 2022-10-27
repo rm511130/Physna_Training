@@ -60,7 +60,7 @@ Throughout this guide you will find numbered _**Workshop Labs**_ nd _**Questions
 - If your username has yet to be created, please refer to the [User Management](#user_management) section of this User Guide to understand the steps a System Administrator needs to execute in order to create an account for you.
 
 ![](./images/thin_line.jpg)
-### 2a. Workshop Lab 1<a name="WorkShop_1"></a>
+### 2a. Workshop Lab 1: Logging in<a name="WorkShop_1"></a>
 
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.

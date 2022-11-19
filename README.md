@@ -452,11 +452,22 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 ![usd2glb](./images/usd2glb_v2.gif)
   
-  2. Let's take a look at a few other examples of USD encoded files that were converted to GLB and uploaded into Physna.
+  2. Let's take a look at a few other examples of USD encoded files that were converted to GLB and uploaded into Physna. The steps below are followed by their animation:
    
      a. Please click on the following link: [Pixar Kitchen](https://nu.physna.com/app/models/978df6d0-2571-477d-ba0f-db87ddaed640)  
      b. Now click on _**Find Matches**_ at the top left-hand corner and then click on the _**Part Match**_ radio button.  
-     c. Clear the _**Compare Cart**_ if it's not empty and add 
+     c. Clear the _**Compare Cart**_ if it's not empty and add _**kitchen**_ and _**polySurface63**_ to the _**Compare Cart**_.
+     d. Click on _**Compare**_ and switch to _**Overlay**_ mode to see where the _**polySurface63**_, a.k.a. table legs, show up in the kitchen.
+     e. Hit your browser's _**Back Button/Arrow**_ to take you back to the previous page where the _**kitchen**_ was used as the search criteria.
+     f. Now look for _**pSphere53**_. It's a _**pasta strainer**_ that shows up as one of the first few matches when you are in _**Part Match**_ mode.
+     g. Take _**polySurface63**_ off the compare cart by clicking the _**x**_ next to it, and add _**pSphere53**_ to the compare cart.
+     h. Click on _**Compare**_ and switch to _**Overlay**_ mode to see where the _**pasta strainer**_ can be seen in the kitchen.
+   
+ ![Kitchen_both_ways](./images/Kitchen_both_ways.gif)
+   
+ 9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop lab 5.  
+   
+10. Congratulations: you have completed _Lab 5_ of the Workshop. You can now start to experiment by yourself with Physna because _Lab 5_ was the last Lab in this workshop.  
    
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>

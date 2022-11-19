@@ -351,7 +351,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
    
-   b. Add both the _**ico**_ and the _**dod**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick the _**ico**_ first, then the **_dod_** as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
+   b. Add both the _**ico**_ and the _**dod**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick _**ico**_ first, then **_dod_**, as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
    
    c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked or unchecked, depending on the models' relative positions, move the models around to see if you can detect the differences.  
    
@@ -364,7 +364,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #9</summary>
-  -- Files ico and dod files seem to have very similar models placed in different positions and orientations.
+  -- Files ico and dod seem to have very similar models placed in different positions and orientations.
      The cubes seem very similar but there's an icosahedron in ico and a dodecahedron in dod.
 
 </details> 

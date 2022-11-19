@@ -465,9 +465,9 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  ![Kitchen_both_ways](./images/Kitchen_both_ways.gif)
    
- 9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop lab 5.  
+ 9. Please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop lab 6.  
    
-10. Congratulations: you have completed _Lab 5_ of the Workshop. You can now start to experiment by yourself with Physna because _Lab 5_ was the last Lab in this workshop.  
+10. Congratulations: you have completed _Lab 6_ of the Workshop. You can now start to experiment by yourself with Physna because _Lab 6_ was the last Lab in this workshop.  
    
 ---------------------------   
 ## 5. Help and Support <a name="help_and_support"><a/>

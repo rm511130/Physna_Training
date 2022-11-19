@@ -219,9 +219,11 @@ Question #2: What are the possible file status values?
 
 </details>    
    
-5. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 3.  
+5. If you would like to take a look at the original [PZ2.usd](https://drive.google.com/file/d/1ZiOkv0zhpNX0pgDHZ-UGW4_iiJUXGnVU/view?usp=share_link) file, you will need a USD Viewer.   
    
-6. Congratulations: you have completed _Lab 3_ of the Workshop.
+6. If the 17 files were successfully loaded, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 3.  
+   
+7. Congratulations: you have completed _Lab 3_ of the Workshop.
 
 ---
 ## 4. Advanced 3D Geometric Search<a name="3D_Geometric_Search"><a/>

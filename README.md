@@ -341,17 +341,17 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 1. As shown below, click on the following link [Advanced Comparisons Folder](https://nu.physna.com/app/search?folders=15).
    
-   a. Click on the _**Find Matches**_ link next to the _**3 Objects**_ model.
+   a. Click on the _**Find Matches**_ link next to the _**ico**_ model.
 
     <kbd>![Compare 3 Objects](./images/compare_3_objects.gif)</kbd>  
    
-   b. Notice that _**3 Objects**_ is an 88.62% geometric match to _**3 Objects Diff**_
+   b. Notice that _**ico**_ is an 88.62% geometric match to _**dod**_
   
 2. Let's get Physna to show us the differences and similarities between the two models. Per the animation shown below:
    
    a. If the _**Compare Cart**_ is full, please click on the _**Clear**_ link.  
    
-   b. Add both the _**3 Objects**_ and the _**3 Objects Diff**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick the _**3 Objects**_ first, then the **_3 Objects Diff_** as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
+   b. Add both the _**ico**_ and the _**dod**_ to the compare cart using their respective _**Add to Compare Cart**_ links. Order does matter to the model alignment algorithm, so please pick the _**ico**_ first, then the **_dod_** as you add them to the _**Compare Cart**_, and then click on _**Compare**_.  
    
    c. Using the _**Overview**_ mode with the _**Synchronize Cameras**_ box checked or unchecked, depending on the models' relative positions, move the models around to see if you can detect the differences.  
    
@@ -364,33 +364,33 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #9</summary>
-  -- The 3_Objects and 3_Objects_Diff seem to have very similar models placed in different positions and orientations.
-     The cubes seem very similar but there's an icosahedron in 3_Objects and a dodecahedron in 3_Objects_Diff.
+  -- Files ico and dod files seem to have very similar models placed in different positions and orientations.
+     The cubes seem very similar but there's an icosahedron in ico and a dodecahedron in dod.
 
 </details> 
 
    
 3. Now switch to _**Overlay**_ mode by clicking on the word _**Overlay**_  and do the following steps, per the animation shown below:
 
-   a. There are six checkboxes to the left of your screen. Keeping the six checkboxes in their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**3 Objects**_ to _**3 Objects Diff**_ by placing the solid cubes in the same position and orientation. 
+   a. There are six checkboxes to the left of your screen. Keeping the six checkboxes in their default setting, move the resulting model around. As you can see in the animation below, Physna auto-aligned _**ico**_ to _**dod**_ by placing the solid cubes in the same position and orientation. 
    
    b. You can see [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting) between the two solid cubes, as you move all the objects around. The choice of auto-alignment indicates that the solid cubes are identical or, at least, close to 100% matches.  
    
-   c. Unselect all the checkboxes except for the first one. As expected, you should see _**3 Objects**_ by itself.  
+   c. Unselect all the checkboxes except for the first one. As expected, you should see _**ico**_ by itself.  
    
-   d. Switch to just having the 2nd checkbox selected. No surprises, you should see _**3 Objects Diff**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
+   d. Switch to just having the 2nd checkbox selected. No surprises, you should see _**dod**_ by itself. Note that the solid cubes were placed in the same location with the same orientation.  
    
-   e. The 3rd checkbox _**Difference 3 Objects**_ checked by itself shows the icosahedron, that is, the object that _**3 Objects**_ contains, and _**3 Objects Diff**_ does not.  
+   e. The 3rd checkbox _**Difference ico**_ checked by itself shows the icosahedron, that is, the object that _**ico**_ contains, and _**dod**_ does not.  
    
-   f. The 4th checkbox _**Difference 3 Objects Diff**_ checked by itself shows the dodecahedron, that is, the object that _**3 Objects Diff**_ contains, and _**3 Objects**_ does not.  
+   f. The 4th checkbox _**Difference dod**_ checked by itself shows the dodecahedron, that is, the object that _**dod**_ contains, and _**ico**_ does not.  
    
-   g. The 5th checkbox, checked by itself, shows the items in _**3 Objects**_ that are common to _**3 Objects Diff**_ from the perspective of _**3 Objects**_.  
+   g. The 5th checkbox, checked by itself, shows the items in _**ico**_ that are common to _**dod**_ from the perspective of _**ico**_.  
    
-   h. The 6th checkbox, checked by itself, shows the items in _**3 Objects Diff**_ that are common to _**3 Objects**_ from the perspective of _**3 Objects Diff**_.  
+   h. The 6th checkbox, checked by itself, shows the items in _**dod**_ that are common to _**ico**_ from the perspective of _**dod**_.  
    
-   i. Checking only the 1st and 5th checkboxes, you should see the _**3 Objects**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with _**3 Object Diff**_.  
+   i. Checking only the 1st and 5th checkboxes, you should see the _**ico**_ model with its cubes highlighted in yellow because they are the _**intersection**_ or  common elements shared with _**dod**_.  
    
-   j. Checking only the 2nd and 6th checkboxes, you should see the _**3 Objects Diff**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with _**3 Objects**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**3 Objects Diff**_ model, as shown in the animation below.  
+   j. Checking only the 2nd and 6th checkboxes, you should see the _**dod**_ model with its cubes highlighted in a golden-yellow color because they are the _**intersection**_ or common elements shared with _**ico**_. In this case, the golden-yellow color can be made more prominent by changing the opacity of the _**dod**_ model, as shown in the animation below.  
  
    
  <kbd>![Compare 3 Objects Overlay](./images/compare_3_objects_overlay.gif)</kbd>   
@@ -400,7 +400,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
  <details>
   <summary>Answer #10</summary>
-  -- Yes, it confirmed our answer to question #9. The additional "noise" seen when the 3rd and 4th checkboxes were selected also indicated that the cubes were not 100% identical to each other across the two models: 3_Objects and 3_Objects_Diff. Note that Physna was able to compare the correct pair of cubes to each other even though their relative positions and orientations were completely different.
+  -- Yes, it confirmed our answer to question #9. The additional "noise" seen when the 3rd and 4th checkboxes were selected also indicated that the cubes were not 100% identical to each other across the two models: ico and dod. Note that Physna was able to compare the correct pair of cubes to each other even though their relative positions and orientations were completely different.
 </details>        
 
 4. The answer to Question #10 can be more clearly seen when you follow the steps below, per the animation that follows: 

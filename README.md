@@ -65,7 +65,7 @@ Throughout this guide you will find numbered _**Workshop Labs**_ nd _**Questions
 1. Provide a valid email address to your Physna point of contact and ask him/her to create your user account. Your username will be your email.
 2. Check your email inbox for an email from Okta and follow its instructions to complete the Okta registration process.
    For more details, you will find the process described in [Section 2](#how-do-i-access) and in the [User Management](#user_management) section of this document.
-3. Log into your Physna environment: https://delta.physna.com. If you encounter any issues, please ask for assistance.
+3. Log into your Physna environment: https://rpw.physna.com. If you encounter any issues, please ask for assistance.
 4. If you were able to successfully log into Physna, please update the [progress tracker spreadsheet](https://docs.google.com/spreadsheets/d/1T5CmKvyP4t7ObUd8ZPnEy5oAN1HH5GKwL_TspGm4vK4/edit?usp=sharing) with an "x" in the row and column that corresponds to your Workshop Lab 1.  
 5. Congratulations: you have completed _Lab 1_ of the Workshop.
 
@@ -126,11 +126,11 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 ![](./images/thin_line.jpg)
 ### 3b. Workshop Lab 2<a name="WorkShop_2"></a>
 
-In preparation for this Workshop Lab, a folder named [Turbo](https://delta.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://delta.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
+In preparation for this Workshop Lab, a folder named [Turbo](https://rpw.physna.com/app/search?folders=7) was created on your environment and a [Turbocharger.asm](https://rpw.physna.com/app/models/978db9df-1d8d-4701-99c3-014554a81b54) 3D Assembly was uploaded to it. Note the fact that these are [deep links](https://en.wikipedia.org/wiki/Deep_linking). Any model or query in Physna is represented by a URL that can be copied and shared with colleagues for ease of collaboration. 
 
-1. Please click on the following [Turbo Folder](https://delta.physna.com/app/search?folders=7) link. You should see the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. 
+1. Please click on the following [Turbo Folder](https://rpw.physna.com/app/search?folders=7) link. You should see the contents of the _**Turbo**_ folder. Using the search bar at the top of the page, type _**xx**_ in the search box. Press the _**"return/enter"**_ key to initiate a search. 
    
-   Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://delta.physna.com/app/search?folders=38) per the example shown below:
+   Any models with names that contain _**xx**_ and any models with metadata that contains _**xx**_ will be listed for you as shown in the animation below. Note that the query results are limited to the contents of the [Turbo Folder](https://rpw.physna.com/app/search?folders=38) per the example shown below:
    
 <kbd>![xx_query](./images/xx_query_v2.gif)</kbd>
    
@@ -160,8 +160,8 @@ In preparation for this Workshop Lab, a folder named [Turbo](https://delta.physn
    h. The _**Overlay**_ comparison page allowed us to see the intersection between the _**Turbocharger**_ and the _**Bolt**_. Physna found 8 bolts.  
    i. The _**X Ray**_ comparison page provided a visualization that is particularly useful when the difference is contained within the model.  
    
-6. Let's use the [_**High Ply Scans**_](https://delta.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: the _**Scan Match**_. 
-   Per the animation below, click on this [_**High Ply Scans**_](https://delta.physna.com/app/search?folders=13) link to be taken to a folder containing models acquired using Photogrammetry. These are larger models made up of meshes with thousands of triangles. Select any one of the _**Find Matches**_ links next to the thumbnails of the various _**Impellers**_, and click on it. You should see that only the _**Scan Match**_, on the top left-hand corner of the screen, offers a non-zero result. That's because the models being compared are, from a geometrically precise perspective, very different from each other. The _**Scan Match**_ algorithm is tuned to look for shape and volumetric similarities, hence the reason for the results displayed on the screen.
+6. Let's use the [_**High Ply Scans**_](https://rpw.physna.com/app/search?folders=13) folder to explain the 3rd Search _**Match Type**_: the _**Scan Match**_. 
+   Per the animation below, click on this [_**High Ply Scans**_](https://rpw.physna.com/app/search?folders=13) link to be taken to a folder containing models acquired using Photogrammetry. These are larger models made up of meshes with thousands of triangles. Select any one of the _**Find Matches**_ links next to the thumbnails of the various _**Impellers**_, and click on it. You should see that only the _**Scan Match**_, on the top left-hand corner of the screen, offers a non-zero result. That's because the models being compared are, from a geometrically precise perspective, very different from each other. The _**Scan Match**_ algorithm is tuned to look for shape and volumetric similarities, hence the reason for the results displayed on the screen.
    
    <kbd>![Scan Match](./images/scan_match_v2.gif)</kbd>   
    
@@ -208,7 +208,7 @@ Now that you have read the _Important Details_ above, please upload all the 17 e
    
 3. The previous step ended with 17 files successfully uploaded to a folder of your choice. If this is not the case, you can ask for assistance or you can try again: make sure you have read and understood the _Important Details_ section of step 2, delete your folder (Hamburger menu > Folder > Applicable Trashcan > Red Delete Button), then start again on step 1 of this Workshop Lab.
    
-4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://delta.physna.com/app/search. You can then select your folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
+4. If you are in doubt as to whether the 17 files were successfully uploaded, you can click on the _**Physna**_ logo at the top of the Physna UI, to be taken to https://rpw.physna.com/app/search. You can then select your folder on the left-hand side of the page and look at the _**STATUS**_ column of the resulting list of models. _**Finished**_ under the _**STATUS**_ column means all is well.
    
 Question #2: What are the possible file status values? 
    
@@ -308,7 +308,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
 
 </details>      
    
- Question #8: When using [one of the puzzles](https://delta.physna.com/app/matches/978b18e1-134c-4b3b-9bd2-60d6a3804c0a?folders=4) to search for geometrically similar models, we see match percentages ranging from 94% to 100%. The shapes of the puzzles look identical to each other, so why don't we see 100% matches in every case? 
+ Question #8: When using [one of the puzzles](https://rpw.physna.com/app/matches/978b18e1-134c-4b3b-9bd2-60d6a3804c0a?folders=4) to search for geometrically similar models, we see match percentages ranging from 94% to 100%. The shapes of the puzzles look identical to each other, so why don't we see 100% matches in every case? 
    
  <details>
   <summary>Answer #8</summary>
@@ -341,7 +341,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
    
 - Let's take a closer look at the Comparison Tool: Overview, Overlay and X-Ray.
    
-1. As shown below, click on the following link [Advanced Comparisons Folder](https://delta.physna.com/app/search?folders=15).
+1. As shown below, click on the following link [Advanced Comparisons Folder](https://rpw.physna.com/app/search?folders=15).
    
    a. Click on the _**Find Matches**_ link next to the _**ico**_ model.
 
@@ -456,7 +456,7 @@ Question #5: Why are you not able to select any of the 6 puzzle pieces seen in t
   
   2. Let's take a look at a few other examples of USD encoded files that were converted to GLB and uploaded into Physna. The steps below are followed by their animation:
    
-     a. Please click on the following link: [Pixar Kitchen](https://delta.physna.com/app/models/978df6d0-2571-477d-ba0f-db87ddaed640)  
+     a. Please click on the following link: [Pixar Kitchen](https://rpw.physna.com/app/models/978df6d0-2571-477d-ba0f-db87ddaed640)  
      b. Now click on _**Find Matches**_ at the top left-hand corner and then click on the _**Part Match**_ radio button.  
      c. Clear the _**Compare Cart**_ if it's not empty and add _**kitchen**_ and _**polySurface63**_ to the _**Compare Cart**_.  
      d. Click on _**Compare**_ and switch to _**Overlay**_ mode to see where the _**polySurface63**_, a.k.a. table legs, show up in the kitchen.  

@@ -92,7 +92,7 @@ _Workshop Tip: when asked to click on a URL on this page, it will often be bette
 
 1. The search bar is for case-insensitive searches of partial or complete names of models, filenames, or metadata elements about the models. In the example above, the end user searched for "xx" and the results show all the models that contain "xx" in their names.
 2. The triple horizontal lines open or close the sub-menu of advanced features and file management options that will be explained in a subsequent section of this user guide.  
-3. The question mark icon opens a _"Match Type"_ help screen that explains the 4 modalities of searches directly available to the end user from the main landing page.
+3. The question mark icon opens a _"Match Type"_ help screen that explains the 3 modalities of searches directly available to the end user from the main landing page.
     
     (i) Match: finds models that are geometrically similar to a chosen model.
    
